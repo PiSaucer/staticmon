@@ -1,0 +1,47 @@
+{
+  "number": "1",
+  "name": "Bulbasaur",
+  "species": "Seed",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Overgrow"
+    ],
+    "hidden": [
+      "Chlorophyll"
+    ]
+  },
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "height": "2'04\"",
+  "weight": "15.2 lbs.",
+  "family": {
+    "id": 1,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Bulbasaur",
+      "Ivysaur",
+      "Venusaur"
+    ]
+  },
+  "starter": true,
+  "legendary": false,
+  "mythical": false,
+  "ultraBeast": false,
+  "mega": false,
+  "gen": 1,
+  "sprite": {
+    "default": "https://pisaucer.github.io/staticmon/images/1.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/1.png"
+  },
+  "description": "While it is young, it uses the nutrients that are stored in the seeds on its back in order to grow."
+}

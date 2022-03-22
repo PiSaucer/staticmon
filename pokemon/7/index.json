@@ -1,0 +1,46 @@
+{
+  "number": "7",
+  "name": "Squirtle",
+  "species": "Tiny Turtle",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Torrent"
+    ],
+    "hidden": [
+      "Rain Dish"
+    ]
+  },
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "height": "1'08\"",
+  "weight": "19.8 lbs.",
+  "family": {
+    "id": 3,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Squirtle",
+      "Wartortle",
+      "Blastoise"
+    ]
+  },
+  "starter": true,
+  "legendary": false,
+  "mythical": false,
+  "ultraBeast": false,
+  "mega": false,
+  "gen": 1,
+  "sprite": {
+    "default": "https://pisaucer.github.io/staticmon/images/7.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/7.png"
+  },
+  "description": "When it feels threatened, it draws its legs inside its shell and sprays water from its mouth."
+}

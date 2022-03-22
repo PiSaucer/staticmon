@@ -1,0 +1,46 @@
+{
+  "number": "9",
+  "name": "Blastoise",
+  "species": "Shellfish",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Torrent"
+    ],
+    "hidden": [
+      "Rain Dish"
+    ]
+  },
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "height": "5'03\"",
+  "weight": "188.5 lbs.",
+  "family": {
+    "id": 3,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Squirtle",
+      "Wartortle",
+      "Blastoise"
+    ]
+  },
+  "starter": false,
+  "legendary": false,
+  "mythical": false,
+  "ultraBeast": false,
+  "mega": false,
+  "gen": 1,
+  "sprite": {
+    "default": "https://pisaucer.github.io/staticmon/images/9.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/9.png"
+  },
+  "description": "It firmly plants its feet on the ground before shooting water from the jets on its back."
+}

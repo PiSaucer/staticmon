@@ -1,0 +1,46 @@
+{
+  "number": "4",
+  "name": "Charmander",
+  "species": "Lizard",
+  "types": [
+    "Fire"
+  ],
+  "abilities": {
+    "normal": [
+      "Blaze"
+    ],
+    "hidden": [
+      "Solar Power"
+    ]
+  },
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "height": "2'",
+  "weight": "18.7 lbs.",
+  "family": {
+    "id": 2,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Charmander",
+      "Charmeleon",
+      "Charizard"
+    ]
+  },
+  "starter": true,
+  "legendary": false,
+  "mythical": false,
+  "ultraBeast": false,
+  "mega": false,
+  "gen": 1,
+  "sprite": {
+    "default": "https://pisaucer.github.io/staticmon/images/4.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/4.png"
+  },
+  "description": "If it's healthy, the flame on the tip of its tail will burn vigorously, even if it gets a bit wet."
+}

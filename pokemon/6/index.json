@@ -1,0 +1,47 @@
+{
+  "number": "6",
+  "name": "Charizard",
+  "species": "Flame",
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Blaze"
+    ],
+    "hidden": [
+      "Solar Power"
+    ]
+  },
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "height": "5'07\"",
+  "weight": "199.5 lbs.",
+  "family": {
+    "id": 2,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Charmander",
+      "Charmeleon",
+      "Charizard"
+    ]
+  },
+  "starter": false,
+  "legendary": false,
+  "mythical": false,
+  "ultraBeast": false,
+  "mega": false,
+  "gen": 1,
+  "sprite": {
+    "default": "https://pisaucer.github.io/staticmon/images/6.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/6.png"
+  },
+  "description": "It uses its wings to fly high. The temperature of its fire increases as it gains experience in battle."
+}

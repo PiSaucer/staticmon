@@ -1,0 +1,46 @@
+{
+  "number": "8",
+  "name": "Wartortle",
+  "species": "Turtle",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Torrent"
+    ],
+    "hidden": [
+      "Rain Dish"
+    ]
+  },
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "height": "3'03\"",
+  "weight": "49.6 lbs.",
+  "family": {
+    "id": 3,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Squirtle",
+      "Wartortle",
+      "Blastoise"
+    ]
+  },
+  "starter": false,
+  "legendary": false,
+  "mythical": false,
+  "ultraBeast": false,
+  "mega": false,
+  "gen": 1,
+  "sprite": {
+    "default": "https://pisaucer.github.io/staticmon/images/8.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/8.png"
+  },
+  "description": "Its long, furry tail is a symbol of longevity, making it quite popular among older people."
+}
