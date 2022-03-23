@@ -1,0 +1,38 @@
+{
+  "number": "491",
+  "name": "Darkrai",
+  "generation": 4,
+  "description": "Folklore has it that on moonless nights, this Pokémon will make people see horrific nightmares.",
+  "species": "Pitch-Black",
+  "types": [
+    "Dark"
+  ],
+  "abilities": {
+    "normal": [
+      "Bad Dreams"
+    ],
+    "hidden": []
+  },
+  "height": "4'11\"",
+  "weight": "111.3 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [],
+  "family": {
+    "id": 244,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Darkrai"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/491.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/491.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": true,
+  "isUltraBeast": false,
+  "isMega": false
+}

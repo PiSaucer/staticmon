@@ -1,0 +1,44 @@
+{
+  "number": "485",
+  "name": "Heatran",
+  "generation": 4,
+  "description": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+  "species": "Lava Dome",
+  "types": [
+    "Fire",
+    "Steel"
+  ],
+  "abilities": {
+    "normal": [
+      "Flash Fire"
+    ],
+    "hidden": [
+      "Flame Body"
+    ]
+  },
+  "height": "5'07\"",
+  "weight": "948 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 238,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Heatran"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/485.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/485.png"
+  },
+  "isStarter": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

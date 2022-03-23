@@ -1,0 +1,41 @@
+{
+  "number": "488",
+  "name": "Cresselia",
+  "generation": 4,
+  "description": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
+  "species": "Lunar",
+  "types": [
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Levitate"
+    ],
+    "hidden": []
+  },
+  "height": "4'11\"",
+  "weight": "188.7 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [
+    0,
+    100
+  ],
+  "family": {
+    "id": 241,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Cresselia"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/488.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/488.png"
+  },
+  "isStarter": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

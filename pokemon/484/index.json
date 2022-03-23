@@ -1,0 +1,41 @@
+{
+  "number": "484",
+  "name": "Palkia",
+  "generation": 4,
+  "description": "It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology.",
+  "species": "Spatial",
+  "types": [
+    "Water",
+    "Dragon"
+  ],
+  "abilities": {
+    "normal": [
+      "Pressure"
+    ],
+    "hidden": [
+      "Telepathy"
+    ]
+  },
+  "height": "13'09\"",
+  "weight": "740.8 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [],
+  "family": {
+    "id": 237,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Palkia"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/484.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/484.png"
+  },
+  "isStarter": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

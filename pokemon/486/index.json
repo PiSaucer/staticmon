@@ -1,0 +1,38 @@
+{
+  "number": "486",
+  "name": "Regigigas",
+  "generation": 4,
+  "description": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.",
+  "species": "Colossal",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Slow Start"
+    ],
+    "hidden": []
+  },
+  "height": "12'02\"",
+  "weight": "925.9 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [],
+  "family": {
+    "id": 239,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Regigigas"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/486.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/486.png"
+  },
+  "isStarter": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

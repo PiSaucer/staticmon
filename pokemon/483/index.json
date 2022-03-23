@@ -1,0 +1,41 @@
+{
+  "number": "483",
+  "name": "Dialga",
+  "generation": 4,
+  "description": "A Pokémon spoken of in legend. It is said that time began moving when DIALGA was born.",
+  "species": "Temporal",
+  "types": [
+    "Steel",
+    "Dragon"
+  ],
+  "abilities": {
+    "normal": [
+      "Pressure"
+    ],
+    "hidden": [
+      "Telepathy"
+    ]
+  },
+  "height": "17'09\"",
+  "weight": "1505.8 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [],
+  "family": {
+    "id": 236,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Dialga"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/483.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/483.png"
+  },
+  "isStarter": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,39 @@
+{
+  "number": "489",
+  "name": "Phione",
+  "generation": 4,
+  "description": "A Pokémon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
+  "species": "Sea Drifter",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Hydration"
+    ],
+    "hidden": []
+  },
+  "height": "1'04\"",
+  "weight": "6.8 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Fairy"
+  ],
+  "gender": [],
+  "family": {
+    "id": 242,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Phione"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/489.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/489.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

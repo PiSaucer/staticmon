@@ -1,0 +1,38 @@
+{
+  "number": "493",
+  "name": "Arceus",
+  "generation": 4,
+  "description": "It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms.",
+  "species": "Alpha",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Multitype"
+    ],
+    "hidden": []
+  },
+  "height": "10'06\"",
+  "weight": "705.5 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [],
+  "family": {
+    "id": 246,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Arceus"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/493.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/493.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": true,
+  "isUltraBeast": false,
+  "isMega": false
+}
