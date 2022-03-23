@@ -1,0 +1,40 @@
+{
+  "number": "378",
+  "name": "Regice",
+  "generation": 3,
+  "description": "REGICE cloaks itself with frigid air of negative 328 degrees F. Things will freeze solid just by going near this POKéMON. Its icy body is so cold, it will not melt even if it is immersed in magma.",
+  "species": "Iceberg",
+  "types": [
+    "Ice"
+  ],
+  "abilities": {
+    "normal": [
+      "Clear Body"
+    ],
+    "hidden": [
+      "Ice Body"
+    ]
+  },
+  "height": "5'11\"",
+  "weight": "385.8 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [],
+  "family": {
+    "id": 194,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Regice"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/378.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/378.png"
+  },
+  "isStarter": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

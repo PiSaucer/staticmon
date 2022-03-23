@@ -1,0 +1,44 @@
+{
+  "number": "368",
+  "name": "Gorebyss",
+  "generation": 3,
+  "description": "GOREBYSS lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this POKéMON’s body is unharmed by ordinary attacks.",
+  "species": "South Sea",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Swift Swim"
+    ],
+    "hidden": [
+      "Hydration"
+    ]
+  },
+  "height": "5'11\"",
+  "weight": "49.8 lbs.",
+  "eggGroups": [
+    "Water 1"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 188,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Clamperl",
+      "Gorebyss"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/368.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/368.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

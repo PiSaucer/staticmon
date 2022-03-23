@@ -1,0 +1,45 @@
+{
+  "number": "356",
+  "name": "Dusclops",
+  "generation": 3,
+  "description": "DUSCLOPS absorbs anything, however large the object may be. This POKéMON hypnotizes its foe by waving its hands in a macabre manner and by bringing its single eye to bear. The hypnotized foe is made to do DUSCLOPS’s bidding.",
+  "species": "Beckon",
+  "types": [
+    "Ghost"
+  ],
+  "abilities": {
+    "normal": [
+      "Pressure"
+    ],
+    "hidden": [
+      "Frisk"
+    ]
+  },
+  "height": "5'03\"",
+  "weight": "67.5 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 182,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Duskull",
+      "Dusclops",
+      "Dusknoir"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/356.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/356.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

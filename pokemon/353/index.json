@@ -1,0 +1,45 @@
+{
+  "number": "353",
+  "name": "Shuppet",
+  "generation": 3,
+  "description": "SHUPPET is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this POKéMON will appear in a swarm and line up beneath the eaves of that person’s home.",
+  "species": "Puppet",
+  "types": [
+    "Ghost"
+  ],
+  "abilities": {
+    "normal": [
+      "Insomnia",
+      "Frisk"
+    ],
+    "hidden": [
+      "Cursed Body"
+    ]
+  },
+  "height": "2'",
+  "weight": "5.1 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 181,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Shuppet",
+      "Banette"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/353.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/353.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

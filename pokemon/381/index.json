@@ -1,0 +1,42 @@
+{
+  "number": "381",
+  "name": "Latios",
+  "generation": 3,
+  "description": "LATIOS will only open its heart to a TRAINER with a compassionate spirit. This POKéMON can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
+  "species": "Eon",
+  "types": [
+    "Dragon",
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Levitate"
+    ],
+    "hidden": []
+  },
+  "height": "6'07\"",
+  "weight": "132.3 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [
+    100,
+    0
+  ],
+  "family": {
+    "id": 197,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Latios"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/381.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/381.png"
+  },
+  "isStarter": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

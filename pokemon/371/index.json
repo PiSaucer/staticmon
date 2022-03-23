@@ -1,0 +1,45 @@
+{
+  "number": "371",
+  "name": "Bagon",
+  "generation": 3,
+  "description": "BAGON harbors a never-ending dream of one day soaring high among the clouds. As if trying to dispel its frustration over its inability to fly, this POKéMON slams its hard head against huge rocks and shatters them into pebbles.",
+  "species": "Rock Head",
+  "types": [
+    "Dragon"
+  ],
+  "abilities": {
+    "normal": [
+      "Rock Head"
+    ],
+    "hidden": [
+      "Sheer Force"
+    ]
+  },
+  "height": "2'",
+  "weight": "92.8 lbs.",
+  "eggGroups": [
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 191,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Bagon",
+      "Shelgon",
+      "Salamence"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/371.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/371.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,46 @@
+{
+  "number": "362",
+  "name": "Glalie",
+  "generation": 3,
+  "description": "GLALIE has the ability to freely control ice. For example, it can instantly freeze its foe solid. After immobilizing its foe in ice, this POKéMON enjoys eating it in leisurely fashion.",
+  "species": "Face",
+  "types": [
+    "Ice"
+  ],
+  "abilities": {
+    "normal": [
+      "Inner Focus",
+      "Ice Body"
+    ],
+    "hidden": [
+      "Moody"
+    ]
+  },
+  "height": "4'11\"",
+  "weight": "565.5 lbs.",
+  "eggGroups": [
+    "Fairy",
+    "Mineral"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 186,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Snorunt",
+      "Glalie"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/362.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/362.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

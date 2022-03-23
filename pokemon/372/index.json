@@ -1,0 +1,45 @@
+{
+  "number": "372",
+  "name": "Shelgon",
+  "generation": 3,
+  "description": "Inside SHELGON’s armor-like shell, cells are in the midst of transformation to create an entirely new body. This POKéMON’s shell is extremely heavy, making its movements sluggish.",
+  "species": "Endurance",
+  "types": [
+    "Dragon"
+  ],
+  "abilities": {
+    "normal": [
+      "Rock Head"
+    ],
+    "hidden": [
+      "Overcoat"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "243.6 lbs.",
+  "eggGroups": [
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 191,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Bagon",
+      "Shelgon",
+      "Salamence"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/372.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/372.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

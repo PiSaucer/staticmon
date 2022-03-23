@@ -1,0 +1,40 @@
+{
+  "number": "379",
+  "name": "Registeel",
+  "generation": 3,
+  "description": "REGISTEEL was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
+  "species": "Iron",
+  "types": [
+    "Steel"
+  ],
+  "abilities": {
+    "normal": [
+      "Clear Body"
+    ],
+    "hidden": [
+      "Light Metal"
+    ]
+  },
+  "height": "6'03\"",
+  "weight": "451.9 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [],
+  "family": {
+    "id": 195,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Registeel"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/379.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/379.png"
+  },
+  "isStarter": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

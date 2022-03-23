@@ -1,0 +1,46 @@
+{
+  "number": "350",
+  "name": "Milotic",
+  "generation": 3,
+  "description": "MILOTIC live at the bottom of large lakes. When this POKéMON’s body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to restless spirits.",
+  "species": "Tender",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Marvel Scale",
+      "Competitive"
+    ],
+    "hidden": [
+      "Cute Charm"
+    ]
+  },
+  "height": "20'04\"",
+  "weight": "357.1 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 178,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Feebas",
+      "Milotic"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/350.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/350.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

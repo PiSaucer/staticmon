@@ -1,0 +1,46 @@
+{
+  "number": "349",
+  "name": "Feebas",
+  "generation": 3,
+  "description": "FEEBAS’s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this POKéMON is largely ignored. It is capable of living in both the sea and in rivers.",
+  "species": "Fish",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Swift Swim",
+      "Oblivious"
+    ],
+    "hidden": [
+      "Adaptability"
+    ]
+  },
+  "height": "2'",
+  "weight": "16.3 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 178,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Feebas",
+      "Milotic"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/349.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/349.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

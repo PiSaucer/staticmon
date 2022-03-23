@@ -1,0 +1,38 @@
+{
+  "number": "386",
+  "name": "Deoxys",
+  "generation": 3,
+  "description": "DEOXYS emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This POKéMON shoots lasers from the crystalline organ on its chest.",
+  "species": "DNA",
+  "types": [
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Pressure"
+    ],
+    "hidden": []
+  },
+  "height": "5'07\"",
+  "weight": "134 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [],
+  "family": {
+    "id": 202,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Deoxys"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/386.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/386.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": true,
+  "isUltraBeast": false,
+  "isMega": false
+}

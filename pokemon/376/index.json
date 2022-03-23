@@ -1,0 +1,43 @@
+{
+  "number": "376",
+  "name": "Metagross",
+  "generation": 3,
+  "description": "METAGROSS has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This POKéMON can float in the air by tucking in its four legs",
+  "species": "Iron Leg",
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Clear Body"
+    ],
+    "hidden": [
+      "Light Metal"
+    ]
+  },
+  "height": "5'03\"",
+  "weight": "1212.5 lbs.",
+  "eggGroups": [
+    "Mineral"
+  ],
+  "gender": [],
+  "family": {
+    "id": 192,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Beldum",
+      "Metang",
+      "Metagross"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/376.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/376.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

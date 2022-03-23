@@ -1,0 +1,46 @@
+{
+  "number": "373",
+  "name": "Salamence",
+  "generation": 3,
+  "description": "SALAMENCE came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this POKéMON’s cells, causing it to sprout its magnificent wings.",
+  "species": "Dragon",
+  "types": [
+    "Dragon",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Intimidate"
+    ],
+    "hidden": [
+      "Moxie"
+    ]
+  },
+  "height": "4'11\"",
+  "weight": "226.2 lbs.",
+  "eggGroups": [
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 191,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Bagon",
+      "Shelgon",
+      "Salamence"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/373.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/373.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

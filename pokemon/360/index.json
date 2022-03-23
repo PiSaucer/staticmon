@@ -1,0 +1,44 @@
+{
+  "number": "360",
+  "name": "Wynaut",
+  "generation": 3,
+  "description": "WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POKéMON will be slapping the ground with its tail.",
+  "species": "Bright",
+  "types": [
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Shadow Tag"
+    ],
+    "hidden": [
+      "Telepathy"
+    ]
+  },
+  "height": "2'",
+  "weight": "30.9 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 100,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Wynaut",
+      "Wobbuffet"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/360.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/360.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

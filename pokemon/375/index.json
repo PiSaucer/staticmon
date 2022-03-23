@@ -1,0 +1,43 @@
+{
+  "number": "375",
+  "name": "Metang",
+  "generation": 3,
+  "description": "When two BELDUM fuse together, METANG is formed. The brains of the BELDUM are joined by a magnetic nervous system. By linking its brains magnetically, this POKéMON generates strong psychokinetic power.",
+  "species": "Iron Claw",
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Clear Body"
+    ],
+    "hidden": [
+      "Light Metal"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "446.4 lbs.",
+  "eggGroups": [
+    "Mineral"
+  ],
+  "gender": [],
+  "family": {
+    "id": 192,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Beldum",
+      "Metang",
+      "Metagross"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/375.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/375.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

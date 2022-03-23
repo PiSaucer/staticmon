@@ -1,0 +1,45 @@
+{
+  "number": "354",
+  "name": "Banette",
+  "generation": 3,
+  "description": "A cursed energy permeated the stuffing of a discarded and forgotten plush doll, giving it new life as BANETTE. The POKéMON’s energy would escape if it were to ever open its mouth.",
+  "species": "Marionette",
+  "types": [
+    "Ghost"
+  ],
+  "abilities": {
+    "normal": [
+      "Insomnia",
+      "Frisk"
+    ],
+    "hidden": [
+      "Cursed Body"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "27.6 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 181,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Shuppet",
+      "Banette"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/354.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/354.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}
