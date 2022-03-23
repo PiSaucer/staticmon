@@ -128,8 +128,35 @@ https://pisaucer.github.io/staticmon/pokemon/counts/
 </p>
 </details>
 
+## Categories
+
+This json file returns an array of Pokemon Categories discovered in the Pokémon World.
+
+```
+https://pisaucer.github.io/staticmon/categories/
+```
+
+<details>
+<summary>Example Response</summary>
+<p>
+
+<pre>
+  <code>
+[
+    "starter",
+    "legendary",
+    "mythical",
+    "ultraBeast",
+    "mega"
+]
+  </code>
+</pre>
+  
+</p>
+</details>
+
 <style>
-  pre {
+  .markdown-body pre {
     padding-bottom: 0px;
     padding-top: 0px;
   }
