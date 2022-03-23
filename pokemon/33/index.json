@@ -1,0 +1,47 @@
+{
+  "number": "33",
+  "name": "Nidorino",
+  "generation": 1,
+  "description": "It is easily agitated and uses its horn for offense as soon as it notices an attacker.",
+  "species": "Poison Pin",
+  "types": [
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Poison Point",
+      "Rivalry"
+    ],
+    "hidden": [
+      "Hustle"
+    ]
+  },
+  "height": "2'11\"",
+  "weight": "43 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "gender": [
+    0,
+    100
+  ],
+  "family": {
+    "id": 13,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Nidoran♂",
+      "Nidorino",
+      "Nidoking"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/33.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/33.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

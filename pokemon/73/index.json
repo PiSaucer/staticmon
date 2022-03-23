@@ -1,0 +1,46 @@
+{
+  "number": "73",
+  "name": "Tentacruel",
+  "generation": 1,
+  "description": "When its 80 feelers absorb water, it stretches to become like a net to entangle its prey.",
+  "species": "Jellyfish",
+  "types": [
+    "Water",
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Clear Body",
+      "Liquid Ooze"
+    ],
+    "hidden": [
+      "Rain Dish"
+    ]
+  },
+  "height": "5'03\"",
+  "weight": "121.3 lbs.",
+  "eggGroups": [
+    "Water 3"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 30,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Tentacool",
+      "Tentacruel"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/73.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/73.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

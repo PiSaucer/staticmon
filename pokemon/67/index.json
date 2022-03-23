@@ -1,0 +1,46 @@
+{
+  "number": "67",
+  "name": "Machoke",
+  "generation": 1,
+  "description": "This tough POKéMON always stays in the zone. Its muscles become thicker after every battle.",
+  "species": "Superpower",
+  "types": [
+    "Fighting"
+  ],
+  "abilities": {
+    "normal": [
+      "Guts",
+      "No Guard"
+    ],
+    "hidden": [
+      "Steadfast"
+    ]
+  },
+  "height": "4'11\"",
+  "weight": "155.4 lbs.",
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "gender": [
+    75,
+    25
+  ],
+  "family": {
+    "id": 28,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Machop",
+      "Machoke",
+      "Machamp"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/67.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/67.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,46 @@
+{
+  "number": "43",
+  "name": "Oddish",
+  "generation": 1,
+  "description": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+  "species": "Weed",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Chlorophyll"
+    ],
+    "hidden": [
+      "Run Away"
+    ]
+  },
+  "height": "1'08\"",
+  "weight": "11.9 lbs.",
+  "eggGroups": [
+    "Grass"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 18,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Oddish",
+      "Gloom",
+      "Vileplume/Bellossom"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/43.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/43.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

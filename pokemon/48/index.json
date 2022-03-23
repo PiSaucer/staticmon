@@ -1,0 +1,46 @@
+{
+  "number": "48",
+  "name": "Venonat",
+  "generation": 1,
+  "description": "The small bugs it eats appear only at night, so it sleeps in a hole in a tree until night falls.",
+  "species": "Insect",
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Compound Eyes",
+      "Tinted Lens"
+    ],
+    "hidden": [
+      "Run Away"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "66.1 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 20,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Venonat",
+      "Venomoth"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/48.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/48.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

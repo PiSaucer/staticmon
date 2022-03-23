@@ -1,0 +1,46 @@
+{
+  "number": "86",
+  "name": "Seel",
+  "generation": 1,
+  "description": "The light blue fur that covers it keeps it protected against the cold. It loves iceberg-filled oceans.",
+  "species": "Sea Lion",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Thick Fat",
+      "Hydration"
+    ],
+    "hidden": [
+      "Ice Body"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "198.4 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 37,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Seel",
+      "Dewgong"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/86.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/86.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

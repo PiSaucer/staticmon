@@ -1,0 +1,45 @@
+{
+  "number": "58",
+  "name": "Growlithe",
+  "generation": 1,
+  "description": "It controls a big territory. If it detects an unknown smell, it roars loudly to force out the intruder.",
+  "species": "Puppy",
+  "types": [
+    "Fire"
+  ],
+  "abilities": {
+    "normal": [
+      "Intimidate",
+      "Flash Fire"
+    ],
+    "hidden": [
+      "Justified"
+    ]
+  },
+  "height": "2'04\"",
+  "weight": "41.9 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    75,
+    25
+  ],
+  "family": {
+    "id": 25,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Growlithe",
+      "Arcanine"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/58.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/58.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

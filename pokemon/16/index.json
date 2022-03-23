@@ -1,0 +1,47 @@
+{
+  "number": "16",
+  "name": "Pidgey",
+  "generation": 1,
+  "description": "It rapidly flaps its wings in the grass, stirring up a dust cloud that drives insect prey out into the open.",
+  "species": "Tiny Bird",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Keen Eye",
+      "Tangled Feet"
+    ],
+    "hidden": [
+      "Big Pecks"
+    ]
+  },
+  "height": "1'",
+  "weight": "4 lbs.",
+  "eggGroups": [
+    "Flying"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 6,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Pidgey",
+      "Pidgeotto",
+      "Pidgeot"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/16.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/16.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

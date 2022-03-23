@@ -1,0 +1,46 @@
+{
+  "number": "26",
+  "name": "Raichu",
+  "generation": 1,
+  "description": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
+  "species": "Mouse",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Static"
+    ],
+    "hidden": [
+      "Lightning Rod"
+    ]
+  },
+  "height": "2'07\"",
+  "weight": "66.1 lbs.",
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 10,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Pichu",
+      "Pikachu",
+      "Raichu"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/26.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/26.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,44 @@
+{
+  "number": "37",
+  "name": "Vulpix",
+  "generation": 1,
+  "description": "As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur.",
+  "species": "Fox",
+  "types": [
+    "Fire"
+  ],
+  "abilities": {
+    "normal": [
+      "Flash Fire"
+    ],
+    "hidden": [
+      "Drought"
+    ]
+  },
+  "height": "2'",
+  "weight": "21.8 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    25,
+    75
+  ],
+  "family": {
+    "id": 15,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Vulpix",
+      "Ninetales"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/37.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/37.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,46 @@
+{
+  "number": "24",
+  "name": "Arbok",
+  "generation": 1,
+  "description": "To intimidate foes, it spreads its chest wide and makes eerie sounds by expelling air from its mouth.",
+  "species": "Cobra",
+  "types": [
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Intimidate",
+      "Shed Skin"
+    ],
+    "hidden": [
+      "Unnerve"
+    ]
+  },
+  "height": "11'06\"",
+  "weight": "143.3 lbs.",
+  "eggGroups": [
+    "Field",
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 9,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Ekans",
+      "Arbok"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/24.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/24.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

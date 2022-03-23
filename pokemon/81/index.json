@@ -1,0 +1,44 @@
+{
+  "number": "81",
+  "name": "Magnemite",
+  "generation": 1,
+  "description": "The electricity emitted by the units on each side of its body cause it to become a strong magnet.",
+  "species": "Magnet",
+  "types": [
+    "Electric",
+    "Steel"
+  ],
+  "abilities": {
+    "normal": [
+      "Magnet Pull",
+      "Sturdy"
+    ],
+    "hidden": [
+      "Analytic"
+    ]
+  },
+  "height": "1'",
+  "weight": "13.2 lbs.",
+  "eggGroups": [
+    "Mineral"
+  ],
+  "gender": [],
+  "family": {
+    "id": 34,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Magnemite",
+      "Magneton",
+      "Magnezone"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/81.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/81.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,44 @@
+{
+  "number": "92",
+  "name": "Gastly",
+  "generation": 1,
+  "description": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+  "species": "Gas",
+  "types": [
+    "Ghost",
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Levitate"
+    ],
+    "hidden": []
+  },
+  "height": "4'03\"",
+  "weight": "0.2 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 40,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Gastly",
+      "Haunter",
+      "Gengar"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/92.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/92.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

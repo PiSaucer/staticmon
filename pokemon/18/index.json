@@ -1,0 +1,47 @@
+{
+  "number": "18",
+  "name": "Pidgeot",
+  "generation": 1,
+  "description": "Its outstanding vision allows it to spot splashing MAGIKARP, even while flying at 3300 feet.",
+  "species": "Bird",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Keen Eye",
+      "Tangled Feet"
+    ],
+    "hidden": [
+      "Big Pecks"
+    ]
+  },
+  "height": "4'11\"",
+  "weight": "87.1 lbs.",
+  "eggGroups": [
+    "Flying"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 6,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Pidgey",
+      "Pidgeotto",
+      "Pidgeot"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/18.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/18.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

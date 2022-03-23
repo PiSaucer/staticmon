@@ -1,0 +1,45 @@
+{
+  "number": "20",
+  "name": "Raticate",
+  "generation": 1,
+  "description": "The webs on its hind legs enable it to cross rivers. It searches wide areas for food.",
+  "species": "Mouse",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Run Away",
+      "Guts"
+    ],
+    "hidden": [
+      "Hustle"
+    ]
+  },
+  "height": "2'04\"",
+  "weight": "40.8 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 7,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Rattata",
+      "Raticate"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/20.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/20.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,47 @@
+{
+  "number": "46",
+  "name": "Paras",
+  "generation": 1,
+  "description": "The tochukaso growing on this POKéMON's back orders it to extract juice from tree trunks.",
+  "species": "Mushroom",
+  "types": [
+    "Bug",
+    "Grass"
+  ],
+  "abilities": {
+    "normal": [
+      "Effect Spore",
+      "Dry Skin"
+    ],
+    "hidden": [
+      "Damp"
+    ]
+  },
+  "height": "1'",
+  "weight": "11.9 lbs.",
+  "eggGroups": [
+    "Bug",
+    "Grass"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 19,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Paras",
+      "Parasect"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/46.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/46.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

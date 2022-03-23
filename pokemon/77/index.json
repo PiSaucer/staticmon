@@ -1,0 +1,45 @@
+{
+  "number": "77",
+  "name": "Ponyta",
+  "generation": 1,
+  "description": "Training by jumping over grass that grows longer every day has made it a world-class jumper.",
+  "species": "Fire Horse",
+  "types": [
+    "Fire"
+  ],
+  "abilities": {
+    "normal": [
+      "Run Away",
+      "Flash Fire"
+    ],
+    "hidden": [
+      "Flame Body"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "66.1 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 32,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Ponyta",
+      "Rapidash"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/77.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/77.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

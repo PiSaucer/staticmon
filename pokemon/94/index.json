@@ -1,0 +1,45 @@
+{
+  "number": "94",
+  "name": "Gengar",
+  "generation": 1,
+  "description": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+  "species": "Shadow",
+  "types": [
+    "Ghost",
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Cursed Body",
+      "Levitate"
+    ],
+    "hidden": []
+  },
+  "height": "4'11\"",
+  "weight": "89.3 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 40,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Gastly",
+      "Haunter",
+      "Gengar"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/94.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/94.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

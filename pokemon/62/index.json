@@ -1,0 +1,47 @@
+{
+  "number": "62",
+  "name": "Poliwrath",
+  "generation": 1,
+  "description": "It can use its well-developed arms and legs to run on the surface of the water for a split second.",
+  "species": "Tadpole",
+  "types": [
+    "Water",
+    "Fighting"
+  ],
+  "abilities": {
+    "normal": [
+      "Water Absorb",
+      "Damp"
+    ],
+    "hidden": [
+      "Swift Swim"
+    ]
+  },
+  "height": "4'03\"",
+  "weight": "119 lbs.",
+  "eggGroups": [
+    "Water 1"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 26,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Poliwag",
+      "Poliwhirl",
+      "Poliwrath"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/62.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/62.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

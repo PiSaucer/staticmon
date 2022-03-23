@@ -1,0 +1,46 @@
+{
+  "number": "68",
+  "name": "Machamp",
+  "generation": 1,
+  "description": "With four arms that react more quickly than it can think, it can execute many punches at once.",
+  "species": "Superpower",
+  "types": [
+    "Fighting"
+  ],
+  "abilities": {
+    "normal": [
+      "Guts",
+      "No Guard"
+    ],
+    "hidden": [
+      "Steadfast"
+    ]
+  },
+  "height": "5'03\"",
+  "weight": "286.6 lbs.",
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "gender": [
+    75,
+    25
+  ],
+  "family": {
+    "id": 28,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Machop",
+      "Machoke",
+      "Machamp"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/68.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/68.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

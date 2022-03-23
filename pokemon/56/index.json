@@ -1,0 +1,44 @@
+{
+  "number": "56",
+  "name": "Mankey",
+  "generation": 1,
+  "description": "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.",
+  "species": "Pig Monkey",
+  "types": [
+    "Fighting"
+  ],
+  "abilities": {
+    "normal": [
+      "Vital Spirit"
+    ],
+    "hidden": [
+      "Defiant"
+    ]
+  },
+  "height": "1'08\"",
+  "weight": "61.7 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 24,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Mankey",
+      "Primeape"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/56.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/56.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

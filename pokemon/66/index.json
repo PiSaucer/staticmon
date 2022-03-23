@@ -1,0 +1,46 @@
+{
+  "number": "66",
+  "name": "Machop",
+  "generation": 1,
+  "description": "It trains by lifting rocks in the mountains. It can even pick up a GRAVELER with ease.",
+  "species": "Superpower",
+  "types": [
+    "Fighting"
+  ],
+  "abilities": {
+    "normal": [
+      "Guts",
+      "No Guard"
+    ],
+    "hidden": [
+      "Steadfast"
+    ]
+  },
+  "height": "2'07\"",
+  "weight": "43 lbs.",
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "gender": [
+    75,
+    25
+  ],
+  "family": {
+    "id": 28,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Machop",
+      "Machoke",
+      "Machamp"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/66.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/66.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

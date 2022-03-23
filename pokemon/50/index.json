@@ -1,0 +1,45 @@
+{
+  "number": "50",
+  "name": "Diglett",
+  "generation": 1,
+  "description": "It digs underground and chews on tree roots, sticking its head out only when the sun isn't bright.",
+  "species": "Mole",
+  "types": [
+    "Ground"
+  ],
+  "abilities": {
+    "normal": [
+      "Sand Veil",
+      "Arena Trap"
+    ],
+    "hidden": [
+      "Sand Force"
+    ]
+  },
+  "height": "0'08\"",
+  "weight": "1.8 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 21,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Diglett",
+      "Dugtrio"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/50.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/50.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

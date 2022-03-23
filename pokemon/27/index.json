@@ -1,0 +1,44 @@
+{
+  "number": "27",
+  "name": "Sandshrew",
+  "generation": 1,
+  "description": "It prefers dry, sandy places because it uses the sand to protect itself when threatened.",
+  "species": "Mouse",
+  "types": [
+    "Ground"
+  ],
+  "abilities": {
+    "normal": [
+      "Sand Veil"
+    ],
+    "hidden": [
+      "Sand Rush"
+    ]
+  },
+  "height": "2'",
+  "weight": "26.5 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 11,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Sandshrew",
+      "Sandslash"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/27.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/27.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

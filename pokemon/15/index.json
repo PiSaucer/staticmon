@@ -1,0 +1,46 @@
+{
+  "number": "15",
+  "name": "Beedrill",
+  "generation": 1,
+  "description": "It uses sharp, poisonous stings to defeat prey, then takes the victim back to its nest for food.",
+  "species": "Poison Bee",
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Swarm"
+    ],
+    "hidden": [
+      "Sniper"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "65 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 5,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Weedle",
+      "Kakuna",
+      "Beedrill"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/15.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/15.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

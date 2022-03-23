@@ -1,0 +1,45 @@
+{
+  "number": "22",
+  "name": "Fearow",
+  "generation": 1,
+  "description": "It uses its long beak to attack. It has a surprisingly long reach, so it must be treated with caution.",
+  "species": "Beak",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Keen Eye"
+    ],
+    "hidden": [
+      "Sniper"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "83.8 lbs.",
+  "eggGroups": [
+    "Flying"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 8,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Spearow",
+      "Fearow"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/22.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/22.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

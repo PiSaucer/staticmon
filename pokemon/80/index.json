@@ -1,0 +1,47 @@
+{
+  "number": "80",
+  "name": "Slowbro",
+  "generation": 1,
+  "description": "An attached SHELLDER won't let go because of the tasty flavor that oozes out of its tail.",
+  "species": "Hermit Crab",
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Oblivious",
+      "Own Tempo"
+    ],
+    "hidden": [
+      "Regenerator"
+    ]
+  },
+  "height": "5'03\"",
+  "weight": "173.1 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 33,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Slowpoke",
+      "Slowbro"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/80.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/80.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,45 @@
+{
+  "number": "96",
+  "name": "Drowzee",
+  "generation": 1,
+  "description": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
+  "species": "Hypnosis",
+  "types": [
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Insomnia",
+      "Forewarn"
+    ],
+    "hidden": [
+      "Inner Focus"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "71.4 lbs.",
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 42,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Drowzee",
+      "Hypno"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/96.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/96.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

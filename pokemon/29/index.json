@@ -1,0 +1,47 @@
+{
+  "number": "29",
+  "name": "Nidoran♀",
+  "generation": 1,
+  "description": "Small and very docile, it protects itself with its small, poisonous horn when attacked.",
+  "species": "Poison Pin",
+  "types": [
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Poison Point",
+      "Rivalry"
+    ],
+    "hidden": [
+      "Hustle"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "15.4 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "gender": [
+    0,
+    100
+  ],
+  "family": {
+    "id": 12,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Nidoran♀",
+      "Nidorina",
+      "Nidoqueen"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/29.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/29.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

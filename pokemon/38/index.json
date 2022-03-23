@@ -1,0 +1,44 @@
+{
+  "number": "38",
+  "name": "Ninetales",
+  "generation": 1,
+  "description": "It is said to live a thousand years, and each of its tails is loaded with supernatural powers.",
+  "species": "Fox",
+  "types": [
+    "Fire"
+  ],
+  "abilities": {
+    "normal": [
+      "Flash Fire"
+    ],
+    "hidden": [
+      "Drought"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "43.9 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    25,
+    75
+  ],
+  "family": {
+    "id": 15,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Vulpix",
+      "Ninetales"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/38.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/38.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

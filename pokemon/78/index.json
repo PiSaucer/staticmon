@@ -1,0 +1,45 @@
+{
+  "number": "78",
+  "name": "Rapidash",
+  "generation": 1,
+  "description": "It just loves to gallop. The faster it goes, the longer the swaying flames of its mane will become.",
+  "species": "Fire Horse",
+  "types": [
+    "Fire"
+  ],
+  "abilities": {
+    "normal": [
+      "Run Away",
+      "Flash Fire"
+    ],
+    "hidden": [
+      "Flame Body"
+    ]
+  },
+  "height": "5'07\"",
+  "weight": "209.4 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 32,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Ponyta",
+      "Rapidash"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/78.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/78.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

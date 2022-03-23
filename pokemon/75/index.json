@@ -1,0 +1,47 @@
+{
+  "number": "75",
+  "name": "Graveler",
+  "generation": 1,
+  "description": "It travels by rolling on mountain paths. If it gains too much speed, it stops by running into huge rocks.",
+  "species": "Rock",
+  "types": [
+    "Rock",
+    "Ground"
+  ],
+  "abilities": {
+    "normal": [
+      "Rock Head",
+      "Sturdy"
+    ],
+    "hidden": [
+      "Sand Veil"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "231.5 lbs.",
+  "eggGroups": [
+    "Mineral"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 31,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Geodude",
+      "Graveler",
+      "Golem"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/75.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/75.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

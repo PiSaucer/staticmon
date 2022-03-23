@@ -1,0 +1,46 @@
+{
+  "number": "63",
+  "name": "Abra",
+  "generation": 1,
+  "description": "It hypnotizes itself so that it can teleport away when it senses danger, even if it is asleep.",
+  "species": "Psi",
+  "types": [
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Synchronize",
+      "Inner Focus"
+    ],
+    "hidden": [
+      "Magic Guard"
+    ]
+  },
+  "height": "2'11\"",
+  "weight": "43 lbs.",
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "gender": [
+    75,
+    25
+  ],
+  "family": {
+    "id": 27,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Abra",
+      "Kadabra",
+      "Alakazam"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/63.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/63.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

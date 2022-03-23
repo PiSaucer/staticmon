@@ -1,0 +1,47 @@
+{
+  "number": "17",
+  "name": "Pidgeotto",
+  "generation": 1,
+  "description": "It slowly flies in a circular pattern, all the while keeping a sharp lookout for prey.",
+  "species": "Bird",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Keen Eye",
+      "Tangled Feet"
+    ],
+    "hidden": [
+      "Big Pecks"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "66.1 lbs.",
+  "eggGroups": [
+    "Flying"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 6,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Pidgey",
+      "Pidgeotto",
+      "Pidgeot"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/17.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/17.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

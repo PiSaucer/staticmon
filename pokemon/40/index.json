@@ -1,0 +1,47 @@
+{
+  "number": "40",
+  "name": "Wigglytuff",
+  "generation": 1,
+  "description": "The rich, fluffy fur that covers its body feels so good that anyone who feels it can't stop touching it.",
+  "species": "Balloon",
+  "types": [
+    "Normal",
+    "Fairy"
+  ],
+  "abilities": {
+    "normal": [
+      "Cute Charm",
+      "Competitive"
+    ],
+    "hidden": [
+      "Frisk"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "26.5 lbs.",
+  "eggGroups": [
+    "Fairy"
+  ],
+  "gender": [
+    25,
+    75
+  ],
+  "family": {
+    "id": 16,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Igglybuff",
+      "Jigglypuff",
+      "Wigglytuff"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/40.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/40.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

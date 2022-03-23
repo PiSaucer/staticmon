@@ -1,0 +1,46 @@
+{
+  "number": "61",
+  "name": "Poliwhirl",
+  "generation": 1,
+  "description": "Though it is skilled at walking, it prefers to live underwater where there is less danger.",
+  "species": "Tadpole",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Water Absorb",
+      "Damp"
+    ],
+    "hidden": [
+      "Swift Swim"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "44.1 lbs.",
+  "eggGroups": [
+    "Water 1"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 26,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Poliwag",
+      "Poliwhirl",
+      "Poliwrath/Politoed"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/61.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/61.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

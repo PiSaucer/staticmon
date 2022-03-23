@@ -1,0 +1,44 @@
+{
+  "number": "82",
+  "name": "Magneton",
+  "generation": 1,
+  "description": "When many MAGNETON gather together, the resulting magnetic storm disrupts radio waves.",
+  "species": "Magnet",
+  "types": [
+    "Electric",
+    "Steel"
+  ],
+  "abilities": {
+    "normal": [
+      "Magnet Pull",
+      "Sturdy"
+    ],
+    "hidden": [
+      "Analytic"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "132.3 lbs.",
+  "eggGroups": [
+    "Mineral"
+  ],
+  "gender": [],
+  "family": {
+    "id": 34,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Magnemite",
+      "Magneton",
+      "Magnezone"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/82.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/82.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

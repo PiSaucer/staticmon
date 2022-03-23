@@ -1,0 +1,43 @@
+{
+  "number": "11",
+  "name": "Metapod",
+  "generation": 1,
+  "description": "This is its pre-evolved form. At this stage, it can only harden, so it remains motionless to avoid attack.",
+  "species": "Cocoon",
+  "types": [
+    "Bug"
+  ],
+  "abilities": {
+    "normal": [
+      "Shed Skin"
+    ],
+    "hidden": []
+  },
+  "height": "2'04\"",
+  "weight": "21.8 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 4,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Caterpie",
+      "Metapod",
+      "Butterfree"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/11.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/11.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

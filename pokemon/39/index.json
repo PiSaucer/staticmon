@@ -1,0 +1,47 @@
+{
+  "number": "39",
+  "name": "Jigglypuff",
+  "generation": 1,
+  "description": "It rolls its cute eyes as it sings a soothing lullaby. Its gentle song puts anyone who hears it to sleep.",
+  "species": "Balloon",
+  "types": [
+    "Normal",
+    "Fairy"
+  ],
+  "abilities": {
+    "normal": [
+      "Cute Charm",
+      "Competitive"
+    ],
+    "hidden": [
+      "Friend Guard"
+    ]
+  },
+  "height": "1'08\"",
+  "weight": "12.1 lbs.",
+  "eggGroups": [
+    "Fairy"
+  ],
+  "gender": [
+    25,
+    75
+  ],
+  "family": {
+    "id": 16,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Igglybuff",
+      "Jigglypuff",
+      "Wigglytuff"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/39.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/39.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

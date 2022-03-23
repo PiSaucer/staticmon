@@ -1,0 +1,45 @@
+{
+  "number": "59",
+  "name": "Arcanine",
+  "generation": 1,
+  "description": "An ancient picture scroll shows that people were attracted to its movement as it ran through prairies.",
+  "species": "Legendary",
+  "types": [
+    "Fire"
+  ],
+  "abilities": {
+    "normal": [
+      "Intimidate",
+      "Flash Fire"
+    ],
+    "hidden": [
+      "Justified"
+    ]
+  },
+  "height": "6'03\"",
+  "weight": "341.7 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    75,
+    25
+  ],
+  "family": {
+    "id": 25,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Growlithe",
+      "Arcanine"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/59.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/59.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

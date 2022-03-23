@@ -1,0 +1,46 @@
+{
+  "number": "45",
+  "name": "Vileplume",
+  "generation": 1,
+  "description": "By shaking its big petals, it scatters toxic pollen into the air, turning the air yellow.",
+  "species": "Flower",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Chlorophyll"
+    ],
+    "hidden": [
+      "Effect Spore"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "41 lbs.",
+  "eggGroups": [
+    "Grass"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 18,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Oddish",
+      "Gloom",
+      "Vileplume"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/45.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/45.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

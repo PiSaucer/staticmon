@@ -1,0 +1,46 @@
+{
+  "number": "25",
+  "name": "Pikachu",
+  "generation": 1,
+  "description": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+  "species": "Mouse",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Static"
+    ],
+    "hidden": [
+      "Lightning Rod"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "13.2 lbs.",
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 10,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Pichu",
+      "Pikachu",
+      "Raichu"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/25.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/25.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}
