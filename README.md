@@ -13,11 +13,15 @@ https://pisaucer.github.io/staticmon/pokemon/:number/:min
 <summary>Example Response</summary>
 <p>
   
-<pre class="highlight">
-  <code>
+<div class="language-plaintext highlighter-rouge">
+  <div class="highlight">
+    <pre class="highlight">
+      <code>
 https://pisaucer.github.io/staticmon/pokemon/150
-  </code>
-</pre>
+      </code>
+    </pre>
+  </div>
+</div>
 
 <pre class="highlight">
   <code>
