@@ -148,3 +148,9 @@ https://pisaucer.github.io/staticmon/categories/
 
 ---
 Pokemon and Pokemon character names are trademarks of Nintendo.
+
+<style>
+summary {
+  display: list-item;
+}
+</style>
