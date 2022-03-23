@@ -1,0 +1,47 @@
+{
+  "number": "149",
+  "name": "Dragonite",
+  "generation": 1,
+  "description": "It is said that somewhere in the ocean lies an island where these gather. Only they live there.",
+  "species": "Dragon",
+  "types": [
+    "Dragon",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Inner Focus"
+    ],
+    "hidden": [
+      "Multiscale"
+    ]
+  },
+  "height": "7'03\"",
+  "weight": "463 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 76,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/149.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/149.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

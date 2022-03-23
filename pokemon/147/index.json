@@ -1,0 +1,46 @@
+{
+  "number": "147",
+  "name": "Dratini",
+  "generation": 1,
+  "description": "It sheds many layers of skin as it grows larger. During this process, it is protected by a rapid waterfall.",
+  "species": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "abilities": {
+    "normal": [
+      "Shed Skin"
+    ],
+    "hidden": [
+      "Marvel Scale"
+    ]
+  },
+  "height": "5'11\"",
+  "weight": "7.3 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 76,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/147.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/147.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

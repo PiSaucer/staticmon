@@ -1,0 +1,47 @@
+{
+  "number": "141",
+  "name": "Kabutops",
+  "generation": 1,
+  "description": "It was able to swim quickly through the water by compactly folding up its razor-sharp sickles.",
+  "species": "Shellfish",
+  "types": [
+    "Rock",
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Swift Swim",
+      "Battle Armor"
+    ],
+    "hidden": [
+      "Weak Armor"
+    ]
+  },
+  "height": "4'03\"",
+  "weight": "89.3 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 70,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Kabuto",
+      "Kabutops"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/141.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/141.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

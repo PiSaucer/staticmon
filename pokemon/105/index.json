@@ -1,0 +1,45 @@
+{
+  "number": "105",
+  "name": "Marowak",
+  "generation": 1,
+  "description": "Somewhere in the world is a cemetery just for MAROWAK. It gets its bones from those graves.",
+  "species": "Bone Keeper",
+  "types": [
+    "Ground"
+  ],
+  "abilities": {
+    "normal": [
+      "Rock Head",
+      "Lightning Rod"
+    ],
+    "hidden": [
+      "Battle Armor"
+    ]
+  },
+  "height": "3'03'`\"",
+  "weight": "99.2 lbs.",
+  "eggGroups": [
+    "Monster"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 46,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Cubone",
+      "Marowak"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/105.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/105.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

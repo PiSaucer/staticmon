@@ -1,0 +1,47 @@
+{
+  "number": "117",
+  "name": "Seadra",
+  "generation": 1,
+  "description": "The male raises the young. If it is approached, it uses its toxic spikes to fend off the intruder.",
+  "species": "Dragon",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Poison Point",
+      "Sniper"
+    ],
+    "hidden": [
+      "Damp"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "55.1 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 54,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Horsea",
+      "Seadra",
+      "Kingdra"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/117.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/117.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

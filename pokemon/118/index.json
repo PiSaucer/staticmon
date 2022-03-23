@@ -1,0 +1,45 @@
+{
+  "number": "118",
+  "name": "Goldeen",
+  "generation": 1,
+  "description": "During spawning season, they swim gracefully in the water, searching for their perfect mate.",
+  "species": "Goldfish",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Swift Swim",
+      "Water Veil"
+    ],
+    "hidden": [
+      "Lightning Rod"
+    ]
+  },
+  "height": "2'",
+  "weight": "33.1 lbs.",
+  "eggGroups": [
+    "Water 2"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 55,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Goldeen",
+      "Seaking"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/118.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/118.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

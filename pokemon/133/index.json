@@ -1,0 +1,45 @@
+{
+  "number": "133",
+  "name": "Eevee",
+  "generation": 1,
+  "description": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+  "species": "Evolution",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Run Away",
+      "Adaptability"
+    ],
+    "hidden": [
+      "Anticipation"
+    ]
+  },
+  "height": "1'",
+  "weight": "14.3 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 67,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Eevee",
+      "Vaporeon/Jolteon/Flareon/Espeon/Umbreon/Leafeon/Glaceon/Sylveon"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/133.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/133.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,44 @@
+{
+  "number": "127",
+  "name": "Pinsir",
+  "generation": 1,
+  "description": "When the temperature drops at night, it sleeps on treetops or among roots where it is well hidden.",
+  "species": "Stag Beetle",
+  "types": [
+    "Bug"
+  ],
+  "abilities": {
+    "normal": [
+      "Hyper Cutter",
+      "Mold Breaker"
+    ],
+    "hidden": [
+      "Moxie"
+    ]
+  },
+  "height": "4'11\"",
+  "weight": "121.3 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 62,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Pinsir"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/127.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/127.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,43 @@
+{
+  "number": "137",
+  "name": "Porygon",
+  "generation": 1,
+  "description": "An artificial POKéMON created due to extensive research, it can perform only what is in its program.",
+  "species": "Virtual",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Trace",
+      "Download"
+    ],
+    "hidden": [
+      "Analytic"
+    ]
+  },
+  "height": "2'07\"",
+  "weight": "80.5 lbs.",
+  "eggGroups": [
+    "Mineral"
+  ],
+  "gender": [],
+  "family": {
+    "id": 68,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Porygon",
+      "Porygon2",
+      "Porygon-Z"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/137.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/137.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

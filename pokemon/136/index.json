@@ -1,0 +1,44 @@
+{
+  "number": "136",
+  "name": "Flareon",
+  "generation": 1,
+  "description": "Once it has stored up enough heat, this POKéMON's body temperature can reach up to 1700 degrees.",
+  "species": "Flame",
+  "types": [
+    "Fire"
+  ],
+  "abilities": {
+    "normal": [
+      "Flash Fire"
+    ],
+    "hidden": [
+      "Guts"
+    ]
+  },
+  "height": "2'11\"",
+  "weight": "55.1 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 67,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Eevee",
+      "Flareon"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/136.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/136.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

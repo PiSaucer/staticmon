@@ -1,0 +1,40 @@
+{
+  "number": "132",
+  "name": "Ditto",
+  "generation": 1,
+  "description": "When it encounters another DITTO, it will move faster than normal to duplicate that opponent exactly.",
+  "species": "Transform",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Limber"
+    ],
+    "hidden": [
+      "Imposter"
+    ]
+  },
+  "height": "1'",
+  "weight": "8.8 lbs.",
+  "eggGroups": [
+    "Ditto"
+  ],
+  "gender": [],
+  "family": {
+    "id": 66,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Ditto"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/132.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/132.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

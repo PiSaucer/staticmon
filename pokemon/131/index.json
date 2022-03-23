@@ -1,0 +1,46 @@
+{
+  "number": "131",
+  "name": "Lapras",
+  "generation": 1,
+  "description": "This gentle POKéMON loves to give people rides and provides a very comfortable way to get around.",
+  "species": "Transport",
+  "types": [
+    "Water",
+    "Ice"
+  ],
+  "abilities": {
+    "normal": [
+      "Water Absorb",
+      "Shell Armor"
+    ],
+    "hidden": [
+      "Hydration"
+    ]
+  },
+  "height": "8'02\"",
+  "weight": "485 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 65,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Lapras"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/131.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/131.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

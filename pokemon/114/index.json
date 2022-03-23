@@ -1,0 +1,45 @@
+{
+  "number": "114",
+  "name": "Tangela",
+  "generation": 1,
+  "description": "During battle, it constantly moves the vines that cover its body in order to annoy its opponent.",
+  "species": "Vine",
+  "types": [
+    "Grass"
+  ],
+  "abilities": {
+    "normal": [
+      "Chlorophyll",
+      "Leaf Guard"
+    ],
+    "hidden": [
+      "Regenerator"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "77.2 lbs.",
+  "eggGroups": [
+    "Grass"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 52,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Tangela",
+      "Tangrowth"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/114.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/114.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

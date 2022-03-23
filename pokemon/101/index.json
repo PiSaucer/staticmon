@@ -1,0 +1,42 @@
+{
+  "number": "101",
+  "name": "Electrode",
+  "generation": 1,
+  "description": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+  "species": "Ball",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Soundproof",
+      "Static"
+    ],
+    "hidden": [
+      "Aftermath"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "146.8 lbs.",
+  "eggGroups": [
+    "Mineral"
+  ],
+  "gender": [],
+  "family": {
+    "id": 44,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Voltorb",
+      "Electrode"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/101.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/101.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

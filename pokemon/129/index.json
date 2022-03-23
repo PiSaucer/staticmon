@@ -1,0 +1,45 @@
+{
+  "number": "129",
+  "name": "Magikarp",
+  "generation": 1,
+  "description": "This weak and pathetic POKéMON gets easily pushed along rivers when there are strong currents.",
+  "species": "Fish",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Swift Swim"
+    ],
+    "hidden": [
+      "Rattled"
+    ]
+  },
+  "height": "2'11\"",
+  "weight": "22 lbs.",
+  "eggGroups": [
+    "Water 2",
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 64,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Magikarp",
+      "Gyarados"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/129.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/129.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

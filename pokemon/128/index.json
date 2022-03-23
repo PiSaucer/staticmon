@@ -1,0 +1,44 @@
+{
+  "number": "128",
+  "name": "Tauros",
+  "generation": 1,
+  "description": "These violent POKéMON fight with other members of their herd in order to prove their strength.",
+  "species": "Wild Bull",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Intimidate",
+      "Anger Point"
+    ],
+    "hidden": [
+      "Sheer Force"
+    ]
+  },
+  "height": "4'07\"",
+  "weight": "194.9 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    100,
+    0
+  ],
+  "family": {
+    "id": 63,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Tauros"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/128.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/128.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

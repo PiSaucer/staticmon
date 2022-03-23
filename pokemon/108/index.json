@@ -1,0 +1,45 @@
+{
+  "number": "108",
+  "name": "Lickitung",
+  "generation": 1,
+  "description": "It has a tongue that is over 6’6’’ long. It uses this long tongue to lick its body clean.",
+  "species": "Licking",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Own Tempo",
+      "Oblivious"
+    ],
+    "hidden": [
+      "Cloud Nine"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "144.4 lbs.",
+  "eggGroups": [
+    "Monster"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 48,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Lickitung",
+      "Lickilicky"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/108.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/108.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

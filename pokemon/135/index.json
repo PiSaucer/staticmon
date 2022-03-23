@@ -1,0 +1,44 @@
+{
+  "number": "135",
+  "name": "Jolteon",
+  "generation": 1,
+  "description": "The negatively charged ions generated in its fur create a constant sparking noise.",
+  "species": "Lightning",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Volt Absorb"
+    ],
+    "hidden": [
+      "Quick Feet"
+    ]
+  },
+  "height": "2'07\"",
+  "weight": "54 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 67,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Eevee",
+      "Jolteon"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/135.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/135.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

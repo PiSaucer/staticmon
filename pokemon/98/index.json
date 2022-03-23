@@ -1,0 +1,45 @@
+{
+  "number": "98",
+  "name": "Krabby",
+  "generation": 1,
+  "description": "If it is unable to find food, it will absorb nutrients by swallowing a mouthful of sand.",
+  "species": "River Crab",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Hyper Cutter",
+      "Shell Armor"
+    ],
+    "hidden": [
+      "Sheer Force"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "14.3 lbs.",
+  "eggGroups": [
+    "Water 3"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 43,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Krabby",
+      "Kingler"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/98.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/98.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

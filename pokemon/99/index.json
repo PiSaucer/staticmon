@@ -1,0 +1,45 @@
+{
+  "number": "99",
+  "name": "Kingler",
+  "generation": 1,
+  "description": "Its oversized claw is very powerful, but when it's not in battle, the claw just gets in the way.",
+  "species": "Pincer",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Hyper Cutter",
+      "Shell Armor"
+    ],
+    "hidden": [
+      "Sheer Force"
+    ]
+  },
+  "height": "4'03\"",
+  "weight": "132.3 lbs.",
+  "eggGroups": [
+    "Water 3"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 43,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Krabby",
+      "Kingler"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/99.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/99.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

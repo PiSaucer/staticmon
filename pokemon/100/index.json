@@ -1,0 +1,42 @@
+{
+  "number": "100",
+  "name": "Voltorb",
+  "generation": 1,
+  "description": "During the study of this POKéMON, it was discovered that its components are not found in nature.",
+  "species": "Ball",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Soundproof",
+      "Static"
+    ],
+    "hidden": [
+      "Aftermath"
+    ]
+  },
+  "height": "1'08\"",
+  "weight": "22.9 lbs.",
+  "eggGroups": [
+    "Mineral"
+  ],
+  "gender": [],
+  "family": {
+    "id": 44,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Voltorb",
+      "Electrode"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/100.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/100.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

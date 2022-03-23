@@ -1,0 +1,46 @@
+{
+  "number": "130",
+  "name": "Gyarados",
+  "generation": 1,
+  "description": "It appears whenever there is world conflict, burning down any place it travels through.",
+  "species": "Atrocious",
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Intimidate"
+    ],
+    "hidden": [
+      "Mold Breaker"
+    ]
+  },
+  "height": "21'04\"",
+  "weight": "518.1 lbs.",
+  "eggGroups": [
+    "Water 2",
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 64,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Magikarp",
+      "Gyarados"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/130.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/130.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

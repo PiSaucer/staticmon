@@ -1,0 +1,48 @@
+{
+  "number": "112",
+  "name": "Rhyhorn",
+  "generation": 1,
+  "description": "By lightly spinning its drill-like horn, it can easily shatter even a diamond in the rough.",
+  "species": "Spikes",
+  "types": [
+    "Ground",
+    "Rock"
+  ],
+  "abilities": {
+    "normal": [
+      "Lightning Rod",
+      "Rock Head"
+    ],
+    "hidden": [
+      "Reckless"
+    ]
+  },
+  "height": "6'03\"",
+  "weight": "264.6 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 50,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Rhyhorn",
+      "Rhydon",
+      "Rhyperior"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/112.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/112.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,47 @@
+{
+  "number": "111",
+  "name": "Rhyhorn",
+  "generation": 1,
+  "description": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
+  "species": "Spikes",
+  "types": [
+    "Ground",
+    "Rock"
+  ],
+  "abilities": {
+    "normal": [
+      "Lightning Rod"
+    ],
+    "hidden": [
+      "Reckless"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "253.5 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 50,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Rhyhorn",
+      "Rhydon",
+      "Rhyperior"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/111.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/111.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

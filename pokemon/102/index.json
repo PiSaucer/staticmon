@@ -1,0 +1,45 @@
+{
+  "number": "102",
+  "name": "Exeggcute",
+  "generation": 1,
+  "description": "If even one is separated from the group, the energy bond between the six will make them rejoin instantly.",
+  "species": "Egg",
+  "types": [
+    "Grass",
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Chlorophyll"
+    ],
+    "hidden": [
+      "Harvest"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "5.5 lbs.",
+  "eggGroups": [
+    "Grass"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 45,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Exeggcute",
+      "Exeggutor"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/102.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/102.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

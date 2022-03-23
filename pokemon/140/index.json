@@ -1,0 +1,47 @@
+{
+  "number": "140",
+  "name": "Kabuto",
+  "generation": 1,
+  "description": "Three hundred million years ago, it hid on the sea floor. It also has eyes on its back that glow.",
+  "species": "Shellfish",
+  "types": [
+    "Rock",
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Swift Swim",
+      "Battle Armor"
+    ],
+    "hidden": [
+      "Weak Armor"
+    ]
+  },
+  "height": "1'08\"",
+  "weight": "25.4 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 70,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Kabuto",
+      "Kabutops"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/140.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/140.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,42 @@
+{
+  "number": "110",
+  "name": "Weezing",
+  "generation": 1,
+  "description": "When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse.",
+  "species": "Poison Gas",
+  "types": [
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Levitate"
+    ],
+    "hidden": []
+  },
+  "height": "3'11\"",
+  "weight": "20.9 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 49,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Koffing",
+      "Weezing"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/110.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/110.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}
