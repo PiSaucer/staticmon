@@ -51,4 +51,4 @@ jobs:
             title: Compressed Images Nightly
             branch-suffix: timestamp
             commit-message: Compressed Images
-          body: ${{ steps.calibre.outputs.markdown }}
+            body: ${{ steps.calibre.outputs.markdown }}
