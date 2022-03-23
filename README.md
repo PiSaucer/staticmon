@@ -148,7 +148,11 @@ https://pisaucer.github.io/staticmon/categories/
 Pokemon and Pokemon character names are trademarks of Nintendo.
 
 <style>
+/* Add Arrows to Summary */
 summary {
   display: list-item;
 }
+  
+/* Highlighter */
+.highlight{font-weight:400!important}.highlight .hll{background-color:#ffc}.highlight .c{color:green}.highlight .err{border:1px solid red}.highlight .k{color:#00f}.highlight .cm{color:green}.highlight .cp{color:#00f}.highlight .c1{color:green}.highlight .cs{color:green}.highlight .ge{font-style:italic}.highlight .gh{font-weight:700}.highlight .gp{font-weight:700}.highlight .gs{font-weight:700}.highlight .gu{font-weight:700}.highlight .kc{color:#00f}.highlight .kd{color:#00f}.highlight .kn{color:#00f}.highlight .kp{color:#00f}.highlight .kr{color:#00f}.highlight .kt{color:#2b91af}.highlight .s{color:#a31515}.highlight .nc{color:#2b91af}.highlight .ow{color:#00f}.highlight .sb{color:#a31515}.highlight .sc{color:#a31515}.highlight .sd{color:#a31515}.highlight .s2{color:#a31515}.highlight .se{color:#a31515}.highlight .sh{color:#a31515}.highlight .si{color:#a31515}.highlight .sx{color:#a31515}.highlight .sr{color:#a31515}.highlight .s1{color:#a31515}.highlight .ss{color:#a31515}
 </style>
