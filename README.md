@@ -128,5 +128,12 @@ https://pisaucer.github.io/staticmon/pokemon/counts/
 </p>
 </details>
 
+<style>
+  pre {
+    padding-bottom: 0px;
+    padding-top: 0px;
+  }
+</style>
+
 ---
 Pokemon and Pokemon character names are trademarks of Nintendo.
