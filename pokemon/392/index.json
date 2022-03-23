@@ -1,0 +1,47 @@
+{
+  "number": "392",
+  "name": "Infernape",
+  "generation": 4,
+  "description": "Its crown of fire is indicative of its fiery nature. It is beaten by none in terms of quickness.",
+  "species": "Flame",
+  "types": [
+    "Fire",
+    "Fighting"
+  ],
+  "abilities": {
+    "normal": [
+      "Blaze"
+    ],
+    "hidden": [
+      "Iron Fist"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "121.3 lbs.",
+  "eggGroups": [
+    "Field",
+    "Human-Like"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 204,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Chimchar",
+      "Monferno",
+      "Infernape"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/392.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/392.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

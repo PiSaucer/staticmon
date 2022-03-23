@@ -1,0 +1,46 @@
+{
+  "number": "472",
+  "name": "Gliscor",
+  "generation": 4,
+  "description": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
+  "species": "Fang Scorpion",
+  "types": [
+    "Ground",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Hyper Cutter",
+      "Sand Veil"
+    ],
+    "hidden": [
+      "Poison Heal"
+    ]
+  },
+  "height": "6'07\"",
+  "weight": "93.7 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 104,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Gligar",
+      "Gliscor"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/472.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/472.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

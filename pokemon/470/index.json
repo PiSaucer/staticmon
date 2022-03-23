@@ -1,0 +1,44 @@
+{
+  "number": "470",
+  "name": "Leafeon",
+  "generation": 4,
+  "description": "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
+  "species": "Verdant",
+  "types": [
+    "Grass"
+  ],
+  "abilities": {
+    "normal": [
+      "Leaf Guard"
+    ],
+    "hidden": [
+      "Chlorophyll"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "56.2 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 67,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Eevee",
+      "Leafeon"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/470.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/470.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

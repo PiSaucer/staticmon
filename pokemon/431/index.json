@@ -1,0 +1,45 @@
+{
+  "number": "431",
+  "name": "Glameow",
+  "generation": 4,
+  "description": "It claws if displeased and purrs when affectionate. Its fickleness is very popular among some.",
+  "species": "Catty",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Limber",
+      "Own Tempo"
+    ],
+    "hidden": [
+      "Keen Eye"
+    ]
+  },
+  "height": "1'08\"",
+  "weight": "8.6 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    25,
+    75
+  ],
+  "family": {
+    "id": 219,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Glameow",
+      "Purugly"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/431.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/431.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

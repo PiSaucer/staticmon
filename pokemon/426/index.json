@@ -1,0 +1,46 @@
+{
+  "number": "426",
+  "name": "Drifblim",
+  "generation": 4,
+  "description": "It’s drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+  "species": "Blimp",
+  "types": [
+    "Ghost",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Aftermath",
+      "Unburden"
+    ],
+    "hidden": [
+      "Flare Boost"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "33.1 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 217,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Drifloon",
+      "Drifblim"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/426.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/426.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

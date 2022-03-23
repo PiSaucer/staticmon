@@ -1,0 +1,42 @@
+{
+  "number": "429",
+  "name": "Mismagius",
+  "generation": 4,
+  "description": "Its cries sound like incantations. Those hearing it are tormented by headaches and hallucinations.",
+  "species": "Magical",
+  "types": [
+    "Ghost"
+  ],
+  "abilities": {
+    "normal": [
+      "Levitate"
+    ],
+    "hidden": []
+  },
+  "height": "2'11\"",
+  "weight": "9.7 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 98,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Misdreavus",
+      "Mismagius"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/429.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/429.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,46 @@
+{
+  "number": "430",
+  "name": "Honchkrow",
+  "generation": 4,
+  "description": "It makes its MURKROW cronies bring it food. It idles its time away, grooming itself in its nest.",
+  "species": "Big Boss",
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Insomnia",
+      "Super Luck"
+    ],
+    "hidden": [
+      "Moxie"
+    ]
+  },
+  "height": "2'11\"",
+  "weight": "60.2 lbs.",
+  "eggGroups": [
+    "Flying"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 97,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Murkrow",
+      "Honchkrow"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/430.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/430.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

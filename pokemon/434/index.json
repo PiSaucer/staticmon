@@ -1,0 +1,46 @@
+{
+  "number": "434",
+  "name": "Stunky",
+  "generation": 4,
+  "description": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
+  "species": "Skunk",
+  "types": [
+    "Poison",
+    "Dark"
+  ],
+  "abilities": {
+    "normal": [
+      "Stench",
+      "Aftermath"
+    ],
+    "hidden": [
+      "Keen Eye"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "42.3 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 220,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Stunky",
+      "Skuntank"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/434.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/434.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

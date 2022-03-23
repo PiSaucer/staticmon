@@ -1,0 +1,46 @@
+{
+  "number": "405",
+  "name": "Luxray",
+  "generation": 4,
+  "description": "When its eyes gleam gold, it can spot hiding prey--even those taking shelter behind a wall.",
+  "species": "Gleam Eyes",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Rivalry",
+      "Intimidate"
+    ],
+    "hidden": [
+      "Guts"
+    ]
+  },
+  "height": "4'07\"",
+  "weight": "92.6 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 209,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Shinx",
+      "Luxio",
+      "Luxray"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/405.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/405.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

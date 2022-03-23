@@ -1,0 +1,43 @@
+{
+  "number": "436",
+  "name": "Bronzor",
+  "generation": 4,
+  "description": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
+  "species": "Bronze",
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Levitate",
+      "Heatproof"
+    ],
+    "hidden": [
+      "Heavy Metal"
+    ]
+  },
+  "height": "1'08\"",
+  "weight": "133.4 lbs.",
+  "eggGroups": [
+    "Mineral"
+  ],
+  "gender": [],
+  "family": {
+    "id": 221,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Bronzor",
+      "Bronzong"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/436.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/436.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

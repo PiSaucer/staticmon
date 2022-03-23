@@ -1,0 +1,44 @@
+{
+  "number": "450",
+  "name": "Hippowdon",
+  "generation": 4,
+  "description": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
+  "species": "Heavyweight",
+  "types": [
+    "Ground"
+  ],
+  "abilities": {
+    "normal": [
+      "Sand Stream"
+    ],
+    "hidden": [
+      "Sand Force"
+    ]
+  },
+  "height": "6'07\"",
+  "weight": "661.4 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 226,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Hippopotas",
+      "Hippowdon"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/450.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/450.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

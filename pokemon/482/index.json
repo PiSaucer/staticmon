@@ -1,0 +1,38 @@
+{
+  "number": "482",
+  "name": "Azelf",
+  "generation": 4,
+  "description": "Known as “The Being of Willpower.” It sleeps at the bottom of a lake to keep the world in balance.",
+  "species": "Willpower",
+  "types": [
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Levitate"
+    ],
+    "hidden": []
+  },
+  "height": "1'",
+  "weight": "0.7 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [],
+  "family": {
+    "id": 235,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Azelf"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/482.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/482.png"
+  },
+  "isStarter": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

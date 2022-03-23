@@ -1,0 +1,45 @@
+{
+  "number": "438",
+  "name": "Bonsly",
+  "generation": 4,
+  "description": "It looks as if it is always crying. It is actually adjusting its body’s fluid levels by eliminating excess.",
+  "species": "Bonsai",
+  "types": [
+    "Rock"
+  ],
+  "abilities": {
+    "normal": [
+      "Sturdy",
+      "Rock Head"
+    ],
+    "hidden": [
+      "Rattled"
+    ]
+  },
+  "height": "1'08\"",
+  "weight": "33.1 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 91,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Bonsly",
+      "Sudowoodo"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/438.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/438.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

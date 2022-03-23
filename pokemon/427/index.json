@@ -1,0 +1,46 @@
+{
+  "number": "427",
+  "name": "Buneary",
+  "generation": 4,
+  "description": "When it senses danger, it perks up its ears. On cold nights, it sleeps with its head tucked into its fur.",
+  "species": "Rabbit",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Run Away",
+      "Klutz"
+    ],
+    "hidden": [
+      "Limber"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "12.1 lbs.",
+  "eggGroups": [
+    "Field",
+    "Human-Like"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 218,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Buneary",
+      "Lopunny"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/427.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/427.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,47 @@
+{
+  "number": "443",
+  "name": "Gible",
+  "generation": 4,
+  "description": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
+  "species": "Land Shark",
+  "types": [
+    "Dragon",
+    "Ground"
+  ],
+  "abilities": {
+    "normal": [
+      "Sand Veil"
+    ],
+    "hidden": [
+      "Rough Skin"
+    ]
+  },
+  "height": "2'04\"",
+  "weight": "45.2 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 224,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Gible",
+      "Gabite",
+      "Garchomp"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/443.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/443.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

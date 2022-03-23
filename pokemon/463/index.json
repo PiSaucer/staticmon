@@ -1,0 +1,45 @@
+{
+  "number": "463",
+  "name": "Lickilicky",
+  "generation": 4,
+  "description": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+  "species": "Licking",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Own Tempo",
+      "Oblivious"
+    ],
+    "hidden": [
+      "Cloud Nine"
+    ]
+  },
+  "height": "5'07\"",
+  "weight": "308.6 lbs.",
+  "eggGroups": [
+    "Monster"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 48,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Lickitung",
+      "Lickilicky"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/463.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/463.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

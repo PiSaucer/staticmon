@@ -1,0 +1,38 @@
+{
+  "number": "480",
+  "name": "Uxie",
+  "generation": 4,
+  "description": "Known as “The Being of Knowledge.” It is said that it can wipe out the memory of those who see its eyes.",
+  "species": "Knowledge",
+  "types": [
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Levitate"
+    ],
+    "hidden": []
+  },
+  "height": "1'",
+  "weight": "0.7 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [],
+  "family": {
+    "id": 233,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Uxie"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/480.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/480.png"
+  },
+  "isStarter": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

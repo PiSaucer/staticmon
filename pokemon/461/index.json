@@ -1,0 +1,45 @@
+{
+  "number": "461",
+  "name": "Weavile",
+  "generation": 4,
+  "description": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
+  "species": "Sharp Claw",
+  "types": [
+    "Dark",
+    "Ice"
+  ],
+  "abilities": {
+    "normal": [
+      "Pressure"
+    ],
+    "hidden": [
+      "Pickpocket"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "75 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 109,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Sneasel",
+      "Weavile"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/461.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/461.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

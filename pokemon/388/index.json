@@ -1,0 +1,46 @@
+{
+  "number": "388",
+  "name": "Grotle",
+  "generation": 4,
+  "description": "The shell is hardened soil. Some Pokémon come to peck the berries growing on the trees on its back.",
+  "species": "Grove",
+  "types": [
+    "Grass"
+  ],
+  "abilities": {
+    "normal": [
+      "Overgrow"
+    ],
+    "hidden": [
+      "Shell Armor"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "213.8 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 203,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Turtwig",
+      "Grotle",
+      "Torterra"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/388.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/388.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

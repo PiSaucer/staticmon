@@ -1,0 +1,42 @@
+{
+  "number": "433",
+  "name": "Chingling",
+  "generation": 4,
+  "description": "Each time it hops, it makes a ringing sound. It deafens foes by emitting high-frequency cries.",
+  "species": "Bell",
+  "types": [
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Levitate"
+    ],
+    "hidden": []
+  },
+  "height": "0'08\"",
+  "weight": "1.3 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 184,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Chingling",
+      "Chimecho"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/433.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/433.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

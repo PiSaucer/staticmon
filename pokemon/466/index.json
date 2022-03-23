@@ -1,0 +1,45 @@
+{
+  "number": "466",
+  "name": "Electivire",
+  "generation": 4,
+  "description": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
+  "species": "Thunderbolt",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Motor Drive"
+    ],
+    "hidden": [
+      "Vital Spirit"
+    ]
+  },
+  "height": "5'11\"",
+  "weight": "305.6 lbs.",
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "gender": [
+    75,
+    25
+  ],
+  "family": {
+    "id": 60,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Elekid",
+      "Electabuzz",
+      "Electivire"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/466.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/466.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

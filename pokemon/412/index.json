@@ -1,0 +1,44 @@
+{
+  "number": "412",
+  "name": "Burmy - Plant Cloak",
+  "generation": 4,
+  "description": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+  "species": "Bagworm",
+  "types": [
+    "Bug"
+  ],
+  "abilities": {
+    "normal": [
+      "Shed Skin"
+    ],
+    "hidden": [
+      "Overcoat"
+    ]
+  },
+  "height": "0'08\"",
+  "weight": "7.5 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 211,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Burmy",
+      "Wormadam/Mothim"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/412-plant-cloak.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/412-plant-cloak.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

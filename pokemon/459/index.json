@@ -1,0 +1,46 @@
+{
+  "number": "459",
+  "name": "Snover",
+  "generation": 4,
+  "description": "It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive.",
+  "species": "Frost Tree",
+  "types": [
+    "Grass",
+    "Ice"
+  ],
+  "abilities": {
+    "normal": [
+      "Snow Warning"
+    ],
+    "hidden": [
+      "Soundproof"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "111.3 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 231,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Snover",
+      "Abomasnow"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/459.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/459.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

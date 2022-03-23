@@ -1,0 +1,45 @@
+{
+  "number": "424",
+  "name": "Ambipom",
+  "generation": 4,
+  "description": "They work in large colonies and make rings by linking their tails, apparently in friendship.",
+  "species": "Long Tail",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Technician",
+      "Pickup"
+    ],
+    "hidden": [
+      "Skill Link"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "44.8 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 93,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Aipom",
+      "Ambipom"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/424.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/424.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

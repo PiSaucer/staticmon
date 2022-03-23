@@ -1,0 +1,45 @@
+{
+  "number": "417",
+  "name": "Pachirisu",
+  "generation": 4,
+  "description": "It makes electricity with pouches in its cheeks and shoots charges from its tail. It lives atop trees.",
+  "species": "EleSquirrel",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Run Away",
+      "Pickup"
+    ],
+    "hidden": [
+      "Volt Absorb"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "8.6 lbs.",
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 213,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Pachirisu"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/417.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/417.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

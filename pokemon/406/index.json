@@ -1,0 +1,47 @@
+{
+  "number": "406",
+  "name": "Budew",
+  "generation": 4,
+  "description": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
+  "species": "Bud",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Natural Cure",
+      "Poison Point"
+    ],
+    "hidden": [
+      "Leaf Guard"
+    ]
+  },
+  "height": "0'08\"",
+  "weight": "1.6 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 158,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Budew",
+      "Roselia",
+      "Roserade"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/406.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/406.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

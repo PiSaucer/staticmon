@@ -1,0 +1,45 @@
+{
+  "number": "477",
+  "name": "Dusknoir",
+  "generation": 4,
+  "description": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
+  "species": "Gripper",
+  "types": [
+    "Ghost"
+  ],
+  "abilities": {
+    "normal": [
+      "Pressure"
+    ],
+    "hidden": [
+      "Frisk"
+    ]
+  },
+  "height": "7'03\"",
+  "weight": "235 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 182,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Duskull",
+      "Dusclops",
+      "Dusknoir"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/477.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/477.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,47 @@
+{
+  "number": "444",
+  "name": "Gabite",
+  "generation": 4,
+  "description": "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
+  "species": "Cave",
+  "types": [
+    "Dragon",
+    "Ground"
+  ],
+  "abilities": {
+    "normal": [
+      "Sand Veil"
+    ],
+    "hidden": [
+      "Rough Skin"
+    ]
+  },
+  "height": "4'07\"",
+  "weight": "123.5 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 224,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Gible",
+      "Gabite",
+      "Garchomp"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/444.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/444.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

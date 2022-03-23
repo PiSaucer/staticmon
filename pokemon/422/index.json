@@ -1,0 +1,46 @@
+{
+  "number": "422",
+  "name": "Shellos",
+  "generation": 4,
+  "description": "Its colors and shapes differ from region to region. In the Sinnoh region, two types are confirmed.",
+  "species": "Sea Slug",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Sticky Hold",
+      "Storm Drain"
+    ],
+    "hidden": [
+      "Sand Force"
+    ]
+  },
+  "height": "1'",
+  "weight": "13.9 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 216,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Shellos",
+      "Gastrodon"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/422.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/422.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

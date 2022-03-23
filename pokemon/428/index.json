@@ -1,0 +1,46 @@
+{
+  "number": "428",
+  "name": "Lopunny",
+  "generation": 4,
+  "description": "An extremely cautious Pokémon. It cloaks its body with its fluffy ear fur when it senses danger.",
+  "species": "Rabbit",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Cute Charm",
+      "Klutz"
+    ],
+    "hidden": [
+      "Limber"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "73.4 lbs.",
+  "eggGroups": [
+    "Field",
+    "Human-Like"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 218,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Buneary",
+      "Lopunny"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/428.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/428.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

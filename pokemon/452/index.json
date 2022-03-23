@@ -1,0 +1,47 @@
+{
+  "number": "452",
+  "name": "Drapion",
+  "generation": 4,
+  "description": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
+  "species": "Ogre Scorpion",
+  "types": [
+    "Poison",
+    "Dark"
+  ],
+  "abilities": {
+    "normal": [
+      "Battle Armor",
+      "Sniper"
+    ],
+    "hidden": [
+      "Keen Eye"
+    ]
+  },
+  "height": "4'03\"",
+  "weight": "135.6 lbs.",
+  "eggGroups": [
+    "Bug",
+    "Water 3"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 227,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Skorupi",
+      "Drapion"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/452.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/452.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,39 @@
+{
+  "number": "479",
+  "name": "Rotom",
+  "generation": 4,
+  "description": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+  "species": "Plasma",
+  "types": [
+    "Electric",
+    "Ghost"
+  ],
+  "abilities": {
+    "normal": [
+      "Levitate"
+    ],
+    "hidden": []
+  },
+  "height": "1'",
+  "weight": "0.7 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [],
+  "family": {
+    "id": 232,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Rotom"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/479.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/479.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

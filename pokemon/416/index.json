@@ -1,0 +1,45 @@
+{
+  "number": "416",
+  "name": "Vespiquen",
+  "generation": 4,
+  "description": "When endangered, grubs from its six-cell honeycomb strike back. There is only one in a colony.",
+  "species": "Beehive",
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Pressure"
+    ],
+    "hidden": [
+      "Unnerve"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "84.9 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    0,
+    100
+  ],
+  "family": {
+    "id": 212,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Combee",
+      "Vespiquen"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/416.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/416.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,45 @@
+{
+  "number": "465",
+  "name": "Tangrowth",
+  "generation": 4,
+  "description": "Its arms are made of plants that bind themselves to things. They grow back right away if cut.",
+  "species": "Vine",
+  "types": [
+    "Grass"
+  ],
+  "abilities": {
+    "normal": [
+      "Chlorophyll",
+      "Leaf Guard"
+    ],
+    "hidden": [
+      "Regenerator"
+    ]
+  },
+  "height": "6'07\"",
+  "weight": "283.5 lbs.",
+  "eggGroups": [
+    "Grass"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 52,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Tangela",
+      "Tangrowth"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/465.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/465.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

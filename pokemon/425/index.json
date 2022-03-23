@@ -1,0 +1,46 @@
+{
+  "number": "425",
+  "name": "Drifloon",
+  "generation": 4,
+  "description": "It tugs on the hands of children to steal them away. However, it gets pulled around instead.",
+  "species": "Balloon",
+  "types": [
+    "Ghost",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Aftermath",
+      "Unburden"
+    ],
+    "hidden": [
+      "Flare Boost"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "2.6 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 217,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Drifloon",
+      "Drifblim"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/425.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/425.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

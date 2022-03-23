@@ -1,0 +1,46 @@
+{
+  "number": "439",
+  "name": "Mime Jr.",
+  "generation": 4,
+  "description": "It likes places where people gather. It mimics foes to confuse them, then makes its getaway.",
+  "species": "Mime",
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "abilities": {
+    "normal": [
+      "Soundproof",
+      "Filter"
+    ],
+    "hidden": [
+      "Technician"
+    ]
+  },
+  "height": "2'",
+  "weight": "28.7 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 57,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Mime Jr.",
+      "Mr. Mime"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/439.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/439.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

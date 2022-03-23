@@ -1,0 +1,45 @@
+{
+  "number": "418",
+  "name": "Buizel",
+  "generation": 4,
+  "description": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
+  "species": "Sea Weasel",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Swift Swim"
+    ],
+    "hidden": [
+      "Water Veil"
+    ]
+  },
+  "height": "2'04\"",
+  "weight": "65 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 214,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Buizel",
+      "Floatzel"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/418.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/418.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

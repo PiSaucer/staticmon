@@ -1,0 +1,46 @@
+{
+  "number": "394",
+  "name": "Prinplup",
+  "generation": 4,
+  "description": "Its wings deliver wicked blows that snap even the thickest of trees. It searches for prey in icy seas.",
+  "species": "Penguin",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Torrent"
+    ],
+    "hidden": [
+      "Defiant"
+    ]
+  },
+  "height": "2'07\"",
+  "weight": "50.7 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 205,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Piplup",
+      "Prinplup",
+      "Empoleon"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/394.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/394.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

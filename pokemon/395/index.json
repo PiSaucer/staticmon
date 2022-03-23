@@ -1,0 +1,47 @@
+{
+  "number": "395",
+  "name": "Empoleon",
+  "generation": 4,
+  "description": "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.",
+  "species": "Emperor",
+  "types": [
+    "Water",
+    "Steel"
+  ],
+  "abilities": {
+    "normal": [
+      "Torrent"
+    ],
+    "hidden": [
+      "Defiant"
+    ]
+  },
+  "height": "5'07\"",
+  "weight": "186.3 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 205,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Piplup",
+      "Prinplup",
+      "Empoleon"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/395.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/395.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

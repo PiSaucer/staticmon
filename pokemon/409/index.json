@@ -1,0 +1,44 @@
+{
+  "number": "409",
+  "name": "Rampardos",
+  "generation": 4,
+  "description": "Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey.",
+  "species": "Head Butt",
+  "types": [
+    "Rock"
+  ],
+  "abilities": {
+    "normal": [
+      "Mold Breaker"
+    ],
+    "hidden": [
+      "Sheer Force"
+    ]
+  },
+  "height": "5'03\"",
+  "weight": "226 lbs.",
+  "eggGroups": [
+    "Monster"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 210,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Cranidos",
+      "Rampardos"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/409.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/409.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

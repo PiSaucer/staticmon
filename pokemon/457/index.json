@@ -1,0 +1,45 @@
+{
+  "number": "457",
+  "name": "Lumineon",
+  "generation": 4,
+  "description": "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.",
+  "species": "Neon",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Swift Swim",
+      "Storm Drain"
+    ],
+    "hidden": [
+      "Water Veil"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "52.9 lbs.",
+  "eggGroups": [
+    "Water 2"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 230,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Finneon",
+      "Lumineon"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/457.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/457.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

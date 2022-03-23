@@ -1,0 +1,44 @@
+{
+  "number": "408",
+  "name": "Cranidos",
+  "generation": 4,
+  "description": "A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.",
+  "species": "Head Butt",
+  "types": [
+    "Rock"
+  ],
+  "abilities": {
+    "normal": [
+      "Mold Breaker"
+    ],
+    "hidden": [
+      "Sheer Force"
+    ]
+  },
+  "height": "2'11\"",
+  "weight": "69.4 lbs.",
+  "eggGroups": [
+    "Monster"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 210,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Cranidos",
+      "Rampardos"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/408.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/408.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

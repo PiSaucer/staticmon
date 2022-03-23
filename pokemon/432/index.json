@@ -1,0 +1,45 @@
+{
+  "number": "432",
+  "name": "Purugly",
+  "generation": 4,
+  "description": "It is a brazen brute that barges its way into another Pokémon’s nest and claims it as its own.",
+  "species": "Tiger Cat",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Thick Fat",
+      "Own Tempo"
+    ],
+    "hidden": [
+      "Defiant"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "96.6 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    25,
+    75
+  ],
+  "family": {
+    "id": 219,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Glameow",
+      "Purugly"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/432.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/432.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

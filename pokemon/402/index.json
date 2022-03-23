@@ -1,0 +1,44 @@
+{
+  "number": "402",
+  "name": "Kricketune",
+  "generation": 4,
+  "description": "It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.",
+  "species": "Cricket",
+  "types": [
+    "Bug"
+  ],
+  "abilities": {
+    "normal": [
+      "Shed Skin"
+    ],
+    "hidden": [
+      "Technician"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "56.2 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 208,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Kricketot",
+      "Kricketune"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/402.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/402.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

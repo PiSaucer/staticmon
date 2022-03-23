@@ -1,0 +1,48 @@
+{
+  "number": "468",
+  "name": "Togekiss",
+  "generation": 4,
+  "description": "It shares many blessings with people who respect one another’s rights and avoid needless strife.",
+  "species": "Jubilee",
+  "types": [
+    "Fairy",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Hustle",
+      "Serene Grace"
+    ],
+    "hidden": [
+      "Super Luck"
+    ]
+  },
+  "height": "4'11\"",
+  "weight": "83.8 lbs.",
+  "eggGroups": [
+    "Flying",
+    "Fairy"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 87,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Togepi",
+      "Togetic",
+      "Togekiss"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/468.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/468.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}
