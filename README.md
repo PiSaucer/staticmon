@@ -13,11 +13,14 @@ https://pisaucer.github.io/staticmon/pokemon/:number/:min
 <summary>Example Response</summary>
 <p>
   
-```
+<pre>
+  <code>
 https://pisaucer.github.io/staticmon/pokemon/150
-```
+  </code>
+</pre>
 
-```json
+<pre>
+  <code>
 {
   "number": "150",
   "name": "Mewtwo",
@@ -58,7 +61,8 @@ https://pisaucer.github.io/staticmon/pokemon/150
   "isUltraBeast": false,
   "isMega": false
 }
-```
+  </code>
+</pre>
   
 </p>
 </details>
@@ -106,7 +110,8 @@ https://pisaucer.github.io/staticmon/pokemon/counts/
 <summary>Example Response</summary>
 <p>
 
-```json
+<pre>
+  <code>
 {
   "gen1": 151,
   "gen2": 100,
@@ -117,7 +122,8 @@ https://pisaucer.github.io/staticmon/pokemon/counts/
   "gen7": 86,
   "total": 807
 }
-```
+  </code>
+</pre>
   
 </p>
 </details>
