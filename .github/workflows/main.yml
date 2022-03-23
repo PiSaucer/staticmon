@@ -1,0 +1,32 @@
+name: Main
+'on': 
+  [push]
+jobs:
+  compress-json:
+    name: Compress Json
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cancel Previous Runs
+        uses: styfle/cancel-workflow-action@0.9.1
+        with:
+          access_token: ${{ github.token }}
+          
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+        
+      - name: Sigin to git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull
+      
+      - name: Compress Json Script 🔧
+        run: |
+          chmod +x compress-json.sh
+          ./compress-json.sh
+          
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.2.2
+        with:
+          branch: main
+          folder: .
