@@ -1,0 +1,46 @@
+{
+  "number": "285",
+  "name": "Shroomish",
+  "generation": 3,
+  "description": "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POKéMON feeds on compost that is made up of fallen, rotted leaves.",
+  "species": "Mushroom",
+  "types": [
+    "Grass"
+  ],
+  "abilities": {
+    "normal": [
+      "Effect Spore",
+      "Poison Heal"
+    ],
+    "hidden": [
+      "Quick Feet"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "9.9 lbs.",
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 142,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Shroomish",
+      "Breloom"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/285.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/285.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

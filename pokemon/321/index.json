@@ -1,0 +1,46 @@
+{
+  "number": "321",
+  "name": "Wailord",
+  "generation": 3,
+  "description": "WAILORD is the largest of all identified POKéMON up to now. This giant POKéMON swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
+  "species": "Float Whale",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Water Veil",
+      "Oblivious"
+    ],
+    "hidden": [
+      "Pressure"
+    ]
+  },
+  "height": "47'07\"",
+  "weight": "877.4 lbs.",
+  "eggGroups": [
+    "Field",
+    "Water 2"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 161,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Wailmer",
+      "Wailord"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/321.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/321.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

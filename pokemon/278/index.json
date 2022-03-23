@@ -1,0 +1,47 @@
+{
+  "number": "278",
+  "name": "Wingull",
+  "generation": 3,
+  "description": "WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POKéMON rides the winds and flies as if it were skating across the sky.",
+  "species": "Seagull",
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Keen Eye",
+      "Hydration"
+    ],
+    "hidden": [
+      "Rain Dish"
+    ]
+  },
+  "height": "2'",
+  "weight": "20.9 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Flying"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 139,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Wingull",
+      "Pelipper"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/278.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/278.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

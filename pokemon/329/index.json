@@ -1,0 +1,44 @@
+{
+  "number": "329",
+  "name": "Vibrava",
+  "generation": 3,
+  "description": "To make prey faint, VIBRAVA generates ultrasonic waves by vigorously making its two wings vibrate. This POKéMON’s ultrasonic waves are so powerful, they can bring on headaches in people.",
+  "species": "Vibration",
+  "types": [
+    "Ground",
+    "Dragon"
+  ],
+  "abilities": {
+    "normal": [
+      "Levitate"
+    ],
+    "hidden": []
+  },
+  "height": "3'07\"",
+  "weight": "33.7 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 166,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Trapinch",
+      "Vibrava",
+      "Flygon"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/329.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/329.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

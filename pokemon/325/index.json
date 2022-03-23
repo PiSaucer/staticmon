@@ -1,0 +1,45 @@
+{
+  "number": "325",
+  "name": "Spoink",
+  "generation": 3,
+  "description": "SPOINK bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this POKéMON cannot afford to stop bouncing - if it stops, its heart will stop.",
+  "species": "Bounce",
+  "types": [
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Thick Fat",
+      "Own Tempo"
+    ],
+    "hidden": [
+      "Gluttony"
+    ]
+  },
+  "height": "2'04\"",
+  "weight": "67.5 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 164,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Spoink",
+      "Grumpig"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/325.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/325.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

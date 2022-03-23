@@ -1,0 +1,45 @@
+{
+  "number": "276",
+  "name": "Taillow",
+  "generation": 3,
+  "description": "TAILLOW is young - it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This POKéMON feeds on WURMPLE that live in forests.",
+  "species": "Tiny Swallow",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Guts"
+    ],
+    "hidden": [
+      "Scrappy"
+    ]
+  },
+  "height": "1'",
+  "weight": "5.1 lbs.",
+  "eggGroups": [
+    "Flying"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 138,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Taillow",
+      "Swellow"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/276.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/276.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

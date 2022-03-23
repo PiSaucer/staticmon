@@ -1,0 +1,45 @@
+{
+  "number": "347",
+  "name": "Anorith",
+  "generation": 3,
+  "description": "ANORITH is said to be a type of POKéMON predecessor, with eight wings at the sides of its body. This POKéMON swam in the primordial sea by undulating these eight wings.",
+  "species": "Old Shrimp",
+  "types": [
+    "Rock",
+    "Bug"
+  ],
+  "abilities": {
+    "normal": [
+      "Battle Armor"
+    ],
+    "hidden": [
+      "Swift Swim"
+    ]
+  },
+  "height": "2'04\"",
+  "weight": "27.6 lbs.",
+  "eggGroups": [
+    "Water 3"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 177,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Anorith",
+      "Armaldo"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/347.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/347.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

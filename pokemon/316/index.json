@@ -1,0 +1,45 @@
+{
+  "number": "316",
+  "name": "Gulpin",
+  "generation": 3,
+  "description": "Most of GULPIN’s body is made up of its stomach - its heart and brain are very small in comparison. This POKéMON’s stomach contains special enzymes that dissolve anything.",
+  "species": "Stomach",
+  "types": [
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Liquid Ooze",
+      "Sticky Hold"
+    ],
+    "hidden": [
+      "Gluttony"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "22.7 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 159,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Gulpin",
+      "Swalot"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/316.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/316.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

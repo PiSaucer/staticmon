@@ -1,0 +1,39 @@
+{
+  "number": "338",
+  "name": "Solrock",
+  "generation": 3,
+  "description": "SOLROCK is a new species of POKéMON that is said to have fallen from space. It floats in air and moves silently. In battle, this POKéMON releases intensely bright light.",
+  "species": "Meteorite",
+  "types": [
+    "Rock",
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Levitate"
+    ],
+    "hidden": []
+  },
+  "height": "3'11\"",
+  "weight": "339.5 lbs.",
+  "eggGroups": [
+    "Mineral"
+  ],
+  "gender": [],
+  "family": {
+    "id": 172,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Solrock"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/338.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/338.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,48 @@
+{
+  "number": "270",
+  "name": "Lotad",
+  "generation": 3,
+  "description": "LOTAD live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this POKéMON travels on land in search of clean water.",
+  "species": "Water Weed",
+  "types": [
+    "Water",
+    "Grass"
+  ],
+  "abilities": {
+    "normal": [
+      "Swift Swim",
+      "Rain Dish"
+    ],
+    "hidden": [
+      "Own Tempo"
+    ]
+  },
+  "height": "1'08\"",
+  "weight": "5.7 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Grass"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 136,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Lotad",
+      "Lombre",
+      "Ludicolo"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/270.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/270.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

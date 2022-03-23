@@ -1,0 +1,46 @@
+{
+  "number": "269",
+  "name": "Dustox",
+  "generation": 3,
+  "description": "DUSTOX is instinctively drawn to light. Swarms of this POKéMON are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.",
+  "species": "Poison Moth",
+  "types": [
+    "Bug"
+  ],
+  "abilities": {
+    "normal": [
+      "Shield Dust"
+    ],
+    "hidden": [
+      "Compound Eyes"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "69.7 lbs.",
+  "eggGroups": [
+    "Bug",
+    "Poison"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 135,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Wurmple",
+      "Cascoon",
+      "Dustox"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/269.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/269.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

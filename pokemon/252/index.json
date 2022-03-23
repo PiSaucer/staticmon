@@ -1,0 +1,46 @@
+{
+  "number": "252",
+  "name": "Treecko",
+  "generation": 3,
+  "description": "TREECKO is cool, calm, and collected - it never panics under any situation. If a bigger foe were to glare at this POKéMON, it would glare right back without conceding an inch of ground.",
+  "species": "Wood Gecko",
+  "types": [
+    "Grass"
+  ],
+  "abilities": {
+    "normal": [
+      "Overgrow"
+    ],
+    "hidden": [
+      "Unburden"
+    ]
+  },
+  "height": "1'08\"",
+  "weight": "11 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 130,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Treecko",
+      "Grovyle",
+      "Sceptile"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/252.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/252.png"
+  },
+  "isStarter": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

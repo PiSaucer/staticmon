@@ -1,0 +1,47 @@
+{
+  "number": "342",
+  "name": "Crawdaunt",
+  "generation": 3,
+  "description": "CRAWDAUNT has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this POKéMON, making them desolate places.",
+  "species": "Rogue",
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "abilities": {
+    "normal": [
+      "Hyper Cutter",
+      "Shell Armor"
+    ],
+    "hidden": [
+      "Adaptability"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "72.3 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 174,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Corphish",
+      "Crawdaunt"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/342.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/342.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

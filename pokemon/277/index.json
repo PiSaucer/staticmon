@@ -1,0 +1,45 @@
+{
+  "number": "277",
+  "name": "Swellow",
+  "generation": 3,
+  "description": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POKéMON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW’s clawed feet, preventing escape.",
+  "species": "Swallow",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Guts"
+    ],
+    "hidden": [
+      "Scrappy"
+    ]
+  },
+  "height": "2'04\"",
+  "weight": "43.7 lbs.",
+  "eggGroups": [
+    "Flying"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 138,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Taillow",
+      "Swellow"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/277.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/277.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

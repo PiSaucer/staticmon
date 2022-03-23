@@ -1,0 +1,45 @@
+{
+  "number": "327",
+  "name": "Spinda",
+  "generation": 3,
+  "description": "No two SPINDA are said to have identical spot patterns on their hides. This POKéMON moves in a curious manner as if it is stumbling in dizziness. Its lurching movements can cause the opponent to become confused.",
+  "species": "Spot Panda",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Own Tempo",
+      "Tangled Feet"
+    ],
+    "hidden": [
+      "Contrary"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "11 lbs.",
+  "eggGroups": [
+    "Field",
+    "Human-Like"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 165,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Spinda"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/327.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/327.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

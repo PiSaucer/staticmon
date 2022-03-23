@@ -1,0 +1,45 @@
+{
+  "number": "345",
+  "name": "Lileep",
+  "generation": 3,
+  "description": "LILEEP became extinct approximately a hundred million years ago. This ancient POKéMON attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.",
+  "species": "Sea Lily",
+  "types": [
+    "Rock",
+    "Grass"
+  ],
+  "abilities": {
+    "normal": [
+      "Suction Cups"
+    ],
+    "hidden": [
+      "Storm Drain"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "52.5 lbs.",
+  "eggGroups": [
+    "Water 3"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 176,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Lileep",
+      "Cradily"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/345.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/345.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

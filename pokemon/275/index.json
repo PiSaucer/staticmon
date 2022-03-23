@@ -1,0 +1,48 @@
+{
+  "number": "275",
+  "name": "Shiftry",
+  "generation": 3,
+  "description": "SHIFTRY is a mysterious POKéMON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
+  "species": "Wicked",
+  "types": [
+    "Grass",
+    "Dark"
+  ],
+  "abilities": {
+    "normal": [
+      "Chlorophyll",
+      "Early Bird"
+    ],
+    "hidden": [
+      "Pickpocket"
+    ]
+  },
+  "height": "4'03\"",
+  "weight": "131.4 lbs.",
+  "eggGroups": [
+    "Field",
+    "Grass"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 137,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Seedot",
+      "Nuzleaf",
+      "Shiftry"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/275.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/275.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

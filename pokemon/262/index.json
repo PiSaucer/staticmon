@@ -1,0 +1,45 @@
+{
+  "number": "262",
+  "name": "Mightyena",
+  "generation": 3,
+  "description": "MIGHTYENA gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This POKéMON will bite savagely with its sharply pointed fangs.",
+  "species": "Bite",
+  "types": [
+    "Dark"
+  ],
+  "abilities": {
+    "normal": [
+      "Intimidate",
+      "Quick Feet"
+    ],
+    "hidden": [
+      "Moxie"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "81.6 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 133,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Poochyena",
+      "Mightyena"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/262.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/262.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

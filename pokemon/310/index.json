@@ -1,0 +1,45 @@
+{
+  "number": "310",
+  "name": "Manectric",
+  "generation": 3,
+  "description": "MANECTRIC is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this POKéMON creates thunderclouds.",
+  "species": "Discharge",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Static",
+      "Lightning Rod"
+    ],
+    "hidden": [
+      "Minus"
+    ]
+  },
+  "height": "4'11\"",
+  "weight": "88.6 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 153,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Electrike",
+      "Manectric"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/310.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/310.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

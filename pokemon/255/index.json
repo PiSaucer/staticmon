@@ -1,0 +1,45 @@
+{
+  "number": "255",
+  "name": "Torchic",
+  "generation": 3,
+  "description": "TORCHIC sticks with its TRAINER, following behind with unsteady steps. This POKéMON breathes fire of over 1,800 degrees F, including fireballs that leave the foe scorched black.",
+  "species": "Chick",
+  "types": [
+    "Fire"
+  ],
+  "abilities": {
+    "normal": [
+      "Blaze"
+    ],
+    "hidden": [
+      "Speed Boost"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "5.5 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 131,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Torchic",
+      "Combusken",
+      "Blaziken"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/255.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/255.png"
+  },
+  "isStarter": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

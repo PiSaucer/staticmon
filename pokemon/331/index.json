@@ -1,0 +1,45 @@
+{
+  "number": "331",
+  "name": "Cacnea",
+  "generation": 3,
+  "description": "CACNEA lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this POKéMON shoots sharp thorns from its body to bring the victim down.",
+  "species": "Cactus",
+  "types": [
+    "Grass"
+  ],
+  "abilities": {
+    "normal": [
+      "Sand Veil"
+    ],
+    "hidden": [
+      "Water Absorb"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "113.1 lbs.",
+  "eggGroups": [
+    "Grass",
+    "Human-Like"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 167,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Cacnea",
+      "Cacturne"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/331.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/331.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

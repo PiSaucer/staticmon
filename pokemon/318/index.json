@@ -1,0 +1,45 @@
+{
+  "number": "318",
+  "name": "Carvanha",
+  "generation": 3,
+  "description": "CARVANHA’s strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this POKéMON.",
+  "species": "Savage",
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "abilities": {
+    "normal": [
+      "Rough Skin"
+    ],
+    "hidden": [
+      "Speed Boost"
+    ]
+  },
+  "height": "2'07\"",
+  "weight": "45.9 lbs.",
+  "eggGroups": [
+    "Water 2"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 160,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Carvanha",
+      "Sharpedo"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/318.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/318.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,47 @@
+{
+  "number": "280",
+  "name": "Ralts",
+  "generation": 3,
+  "description": "RALTS senses the emotions of people using the horns on its head. This POKéMON rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
+  "species": "Feeling",
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "abilities": {
+    "normal": [
+      "Synchronize",
+      "Trace"
+    ],
+    "hidden": [
+      "Telepathy"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "14.6 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 140,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Ralts",
+      "Kirlia",
+      "Gardevoir/Gallade"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/280.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/280.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

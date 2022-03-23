@@ -1,0 +1,48 @@
+{
+  "number": "315",
+  "name": "Roselia",
+  "generation": 3,
+  "description": "ROSELIA shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this POKéMON brings serenity to living things.",
+  "species": "Thorn",
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Natural Cure",
+      "Poison Point"
+    ],
+    "hidden": [
+      "Leaf Guard"
+    ]
+  },
+  "height": "1'",
+  "weight": "4.4 lbs.",
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 158,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Budew",
+      "Roselia",
+      "Roserade"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/315.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/315.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

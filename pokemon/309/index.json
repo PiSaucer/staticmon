@@ -1,0 +1,45 @@
+{
+  "number": "309",
+  "name": "Electrike",
+  "generation": 3,
+  "description": "ELECTRIKE stores electricity in its long body hair. This POKéMON stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
+  "species": "Lightning",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Static",
+      "Lightning Rod"
+    ],
+    "hidden": [
+      "Minus"
+    ]
+  },
+  "height": "2'",
+  "weight": "33.5 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 153,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Electrike",
+      "Manectric"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/309.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/309.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

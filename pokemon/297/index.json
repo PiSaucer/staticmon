@@ -1,0 +1,45 @@
+{
+  "number": "297",
+  "name": "Hariyama",
+  "generation": 3,
+  "description": "HARIYAMA’s thick body may appear fat, but it is actually a hunk of solid muscle. If this POKéMON bears down and tightens all its muscles, its body becomes as hard as a rock.",
+  "species": "Arm Thrust",
+  "types": [
+    "Fighting"
+  ],
+  "abilities": {
+    "normal": [
+      "Thick Fat",
+      "Guts"
+    ],
+    "hidden": [
+      "Sheer Force"
+    ]
+  },
+  "height": "7'07\"",
+  "weight": "559.5 lbs.",
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "gender": [
+    75,
+    25
+  ],
+  "family": {
+    "id": 146,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Makuhita",
+      "Hariyama"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/297.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/297.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

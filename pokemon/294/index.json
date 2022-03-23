@@ -1,0 +1,46 @@
+{
+  "number": "294",
+  "name": "Loudred",
+  "generation": 3,
+  "description": "LOUDRED shouts while stamping its feet. After it finishes shouting, this POKéMON becomes incapable of hearing anything for a while. This is considered to be a weak point.",
+  "species": "Big Voice",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Soundproof"
+    ],
+    "hidden": [
+      "Scrappy"
+    ]
+  },
+  "height": "3'03\"",
+  "weight": "89.3 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 145,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Whismur",
+      "Loudred",
+      "Exploud"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/294.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/294.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

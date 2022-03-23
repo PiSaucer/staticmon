@@ -1,0 +1,45 @@
+{
+  "number": "265",
+  "name": "Wurmple",
+  "generation": 3,
+  "description": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POKéMON’s feet are tipped with suction pads that allow it to cling to glass without slipping.",
+  "species": "Worm",
+  "types": [
+    "Bug"
+  ],
+  "abilities": {
+    "normal": [
+      "Shield Dust"
+    ],
+    "hidden": [
+      "Run Away"
+    ]
+  },
+  "height": "1'",
+  "weight": "7.9 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 135,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Wurmple",
+      "Silcoon/Cascoon",
+      "Beautifly/Dustox"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/265.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/265.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

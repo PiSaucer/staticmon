@@ -1,0 +1,46 @@
+{
+  "number": "301",
+  "name": "Delcatty",
+  "generation": 3,
+  "description": "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POKéMON eats and sleeps whenever it decides, its daily routines are completely random.",
+  "species": "Prim",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Cute Charm",
+      "Normalize"
+    ],
+    "hidden": [
+      "Wonder Skin"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "71.9 lbs.",
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "gender": [
+    25,
+    75
+  ],
+  "family": {
+    "id": 148,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Skitty",
+      "Delcatty"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/301.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/301.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

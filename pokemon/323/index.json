@@ -1,0 +1,46 @@
+{
+  "number": "323",
+  "name": "Camerupt",
+  "generation": 3,
+  "description": "CAMERUPT has a volcano inside its body. Magma of 18,000 degrees F courses through its body. Occasionally, the humps on this POKéMON’s back erupt, spewing the superheated magma.",
+  "species": "Eruption",
+  "types": [
+    "Fire",
+    "Ground"
+  ],
+  "abilities": {
+    "normal": [
+      "Magma Armor",
+      "Solid Rock"
+    ],
+    "hidden": [
+      "Anger Point"
+    ]
+  },
+  "height": "6'03\"",
+  "weight": "485 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 162,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Numel",
+      "Camerupt"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/323.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/323.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

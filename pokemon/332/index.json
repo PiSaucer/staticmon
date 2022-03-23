@@ -1,0 +1,46 @@
+{
+  "number": "332",
+  "name": "Cacturne",
+  "generation": 3,
+  "description": "During the daytime, CACTURNE remains unmoving so that it does not lose any moisture to the harsh desert sun. This POKéMON becomes active at night when the temperature drops.",
+  "species": "Scarecrow",
+  "types": [
+    "Grass",
+    "Dark"
+  ],
+  "abilities": {
+    "normal": [
+      "Sand Veil"
+    ],
+    "hidden": [
+      "Water Absorb"
+    ]
+  },
+  "height": "4'03\"",
+  "weight": "170.6 lbs.",
+  "eggGroups": [
+    "Grass",
+    "Human-Like"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 167,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Cacnea",
+      "Cacturne"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/332.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/332.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

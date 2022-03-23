@@ -1,0 +1,45 @@
+{
+  "number": "263",
+  "name": "Zigzagoon",
+  "generation": 3,
+  "description": "ZIGZAGOON restlessly wanders everywhere at all times. This POKéMON does so because it is very curious. It becomes interested in anything that it happens to see.",
+  "species": "Tiny Raccoon",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Pickup",
+      "Gluttony"
+    ],
+    "hidden": [
+      "Quick Feet"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "38.6 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 134,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Zigzagoon",
+      "Linoone"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/263.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/263.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

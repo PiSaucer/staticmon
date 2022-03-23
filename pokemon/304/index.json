@@ -1,0 +1,47 @@
+{
+  "number": "304",
+  "name": "Aron",
+  "generation": 3,
+  "description": "ARON has a body of steel. With one all-out charge, this POKéMON can demolish even a heavy dump truck. The destroyed dump truck then becomes a handy meal for the POKéMON.",
+  "species": "Iron Armor",
+  "types": [
+    "Steel",
+    "Rock"
+  ],
+  "abilities": {
+    "normal": [
+      "Sturdy",
+      "Rock Head"
+    ],
+    "hidden": [
+      "Heavy Metal"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "132.3 lbs.",
+  "eggGroups": [
+    "Monster"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 151,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Aron",
+      "Lairon",
+      "Aggron"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/304.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/304.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

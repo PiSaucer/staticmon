@@ -1,0 +1,45 @@
+{
+  "number": "308",
+  "name": "Medicham",
+  "generation": 3,
+  "description": "Through the power of meditation, MEDICHAM developed its sixth sense. It gained the ability to use psychokinetic powers. This POKéMON is known to meditate for a whole month without eating.",
+  "species": "Meditate",
+  "types": [
+    "Fighting",
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Pure Power"
+    ],
+    "hidden": [
+      "Telepathy"
+    ]
+  },
+  "height": "4'03\"",
+  "weight": "69.4 lbs.",
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 152,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Meditite",
+      "Medicham"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/308.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/308.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

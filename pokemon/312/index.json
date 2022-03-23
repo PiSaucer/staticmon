@@ -1,0 +1,43 @@
+{
+  "number": "312",
+  "name": "Minun",
+  "generation": 3,
+  "description": "MINUN is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates.",
+  "species": "Cheering",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Minus"
+    ],
+    "hidden": [
+      "Volt Absorb"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "9.3 lbs.",
+  "eggGroups": [
+    "Fairy"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 155,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Minun"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/312.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/312.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

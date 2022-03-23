@@ -1,0 +1,46 @@
+{
+  "number": "334",
+  "name": "Altaria",
+  "generation": 3,
+  "description": "ALTARIA dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this POKéMON makes its listeners experience dreamy wonderment.",
+  "species": "Humming",
+  "types": [
+    "Dragon",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Natural Cure"
+    ],
+    "hidden": [
+      "Cloud Nine"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "45.4 lbs.",
+  "eggGroups": [
+    "Flying",
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 168,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Swablu",
+      "Altaria"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/334.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/334.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

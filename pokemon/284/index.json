@@ -1,0 +1,46 @@
+{
+  "number": "284",
+  "name": "Masquerain",
+  "generation": 3,
+  "description": "MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POKéMON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
+  "species": "Eyeball",
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Intimidate"
+    ],
+    "hidden": [
+      "Unnerve"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "7.9 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 141,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Surskit",
+      "Masquerain"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/284.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/284.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

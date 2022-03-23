@@ -1,0 +1,45 @@
+{
+  "number": "314",
+  "name": "Illumise",
+  "generation": 3,
+  "description": "ILLUMISE attracts a swarm of VOLBEAT using a sweet fragrance. Once the VOLBEAT have gathered, this POKéMON leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
+  "species": "Firefly",
+  "types": [
+    "Bug"
+  ],
+  "abilities": {
+    "normal": [
+      "Oblivious",
+      "Tinted Lens"
+    ],
+    "hidden": [
+      "Prankster"
+    ]
+  },
+  "height": "2'",
+  "weight": "39 lbs.",
+  "eggGroups": [
+    "Bug",
+    "Human-Like"
+  ],
+  "gender": [
+    0,
+    100
+  ],
+  "family": {
+    "id": 157,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Illumise"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/314.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/314.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

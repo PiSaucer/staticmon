@@ -1,0 +1,40 @@
+{
+  "number": "343",
+  "name": "Baltoy",
+  "generation": 3,
+  "description": "As soon as it spots others of its kind, BALTOY congregates with them and then begins crying noisily in unison. This POKéMON sleeps while cleverly balancing itself on its one foot.",
+  "species": "Clay Doll",
+  "types": [
+    "Ground",
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Levitate"
+    ],
+    "hidden": []
+  },
+  "height": "1'08\"",
+  "weight": "47.4 lbs.",
+  "eggGroups": [
+    "Mineral"
+  ],
+  "gender": [],
+  "family": {
+    "id": 175,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Baltoy",
+      "Claydol"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/343.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/343.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

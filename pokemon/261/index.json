@@ -1,0 +1,45 @@
+{
+  "number": "261",
+  "name": "Poochyena",
+  "generation": 3,
+  "description": "POOCHYENA is an omnivore - it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This POKéMON tries to intimidate its foes by making the hair on its tail bristle out.",
+  "species": "Bite",
+  "types": [
+    "Dark"
+  ],
+  "abilities": {
+    "normal": [
+      "Run Away",
+      "Quick Feet"
+    ],
+    "hidden": [
+      "Rattled"
+    ]
+  },
+  "height": "1'08\"",
+  "weight": "30 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 133,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Poochyena",
+      "Mightyena"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/261.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/261.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,45 @@
+{
+  "number": "307",
+  "name": "Meditite",
+  "generation": 3,
+  "description": "MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this POKéMON always loses its concentration and focus. As a result, its training never ends.",
+  "species": "Meditate",
+  "types": [
+    "Fighting",
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Pure Power"
+    ],
+    "hidden": [
+      "Telepathy"
+    ]
+  },
+  "height": "2'",
+  "weight": "24.7 lbs.",
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 152,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Meditite",
+      "Medicham"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/307.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/307.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}
