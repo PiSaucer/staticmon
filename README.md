@@ -16,49 +16,48 @@ https://pisaucer.github.io/staticmon/pokemon/:number/:min
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight">
 <code>https://pisaucer.github.io/staticmon/pokemon/150</code>
 </pre></div></div>
-
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
-<code>{
-  "number": "150",
-  "name": "Mewtwo",
-  "generation": 1,
-  "description": "Said to rest quietly in an undiscovered cave, this POKéMON was created solely for battling.",
-  "species": "Genetic",
-  "types": [
-    "Psychic"
-  ],
-  "abilities": {
-    "normal": [
-      "Pressure"
-    ],
-    "hidden": [
-      "Unnerve"
-    ]
-  },
-  "height": "6'07\"",
-  "weight": "269 lbs.",
-  "eggGroups": [
-    "Undiscovered"
-  ],
-  "gender": [],
-  "family": {
-    "id": 77,
-    "evolutionStage": 1,
-    "evolutionLine": [
-      "Mewtwo"
-    ]
-  },
-  "sprites": {
-    "default": "https://pisaucer.github.io/staticmon/images/150.png",
-    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/150.png"
-  },
-  "isStarter": false,
-  "isLegendary": true,
-  "isMythical": false,
-  "isUltraBeast": false,
-  "isMega": false
-}</code>
-</pre></div></div>
+  
+  <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"number"</span><span class="p">:</span><span class="w"> </span><span class="s2">"150"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Mewtwo"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"generation"</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"description"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Said to rest quietly in an undiscovered cave, this POKéMON was created solely for battling."</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"species"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Genetic"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"types"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+    </span><span class="s2">"Psychic"</span><span class="w">
+  </span><span class="p">],</span><span class="w">
+  </span><span class="nl">"abilities"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"normal"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+      </span><span class="s2">"Pressure"</span><span class="w">
+    </span><span class="p">],</span><span class="w">
+    </span><span class="nl">"hidden"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+      </span><span class="s2">"Unnerve"</span><span class="w">
+    </span><span class="p">]</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"height"</span><span class="p">:</span><span class="w"> </span><span class="s2">"6'07</span><span class="se">\"</span><span class="s2">"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"weight"</span><span class="p">:</span><span class="w"> </span><span class="s2">"269 lbs."</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"eggGroups"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+    </span><span class="s2">"Undiscovered"</span><span class="w">
+  </span><span class="p">],</span><span class="w">
+  </span><span class="nl">"gender"</span><span class="p">:</span><span class="w"> </span><span class="p">[],</span><span class="w">
+  </span><span class="nl">"family"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"id"</span><span class="p">:</span><span class="w"> </span><span class="mi">77</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"evolutionStage"</span><span class="p">:</span><span class="w"> </span><span class="mi">1</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"evolutionLine"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+      </span><span class="s2">"Mewtwo"</span><span class="w">
+    </span><span class="p">]</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"sprites"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"default"</span><span class="p">:</span><span class="w"> </span><span class="s2">"https://pisaucer.github.io/staticmon/images/150.png"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"shiny"</span><span class="p">:</span><span class="w"> </span><span class="s2">"https://pisaucer.github.io/staticmon/images/shiny/150.png"</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"isStarter"</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"isLegendary"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"isMythical"</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"isUltraBeast"</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"isMega"</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
   
 </p>
 </details>
