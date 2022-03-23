@@ -13,19 +13,12 @@ https://pisaucer.github.io/staticmon/pokemon/:number/:min
 <summary>Example Response</summary>
 <p>
   
-<div class="language-plaintext highlighter-rouge">
-  <div class="highlight">
-    <pre class="highlight">
-      <code>
-https://pisaucer.github.io/staticmon/pokemon/150
-      </code>
-    </pre>
-  </div>
-</div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight">
+<code>https://pisaucer.github.io/staticmon/pokemon/150</code>
+</pre></div></div>
 
-<pre class="highlight">
-  <code>
-{
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
+<code>{
   "number": "150",
   "name": "Mewtwo",
   "generation": 1,
@@ -64,9 +57,8 @@ https://pisaucer.github.io/staticmon/pokemon/150
   "isMythical": false,
   "isUltraBeast": false,
   "isMega": false
-}
-  </code>
-</pre>
+}</code>
+</pre></div></div>
   
 </p>
 </details>
@@ -114,9 +106,8 @@ https://pisaucer.github.io/staticmon/pokemon/counts/
 <summary>Example Response</summary>
 <p>
 
-<pre class="highlight">
-  <code>
-{
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
+<code>{
   "gen1": 151,
   "gen2": 100,
   "gen3": 135,
@@ -125,9 +116,8 @@ https://pisaucer.github.io/staticmon/pokemon/counts/
   "gen6": 72,
   "gen7": 86,
   "total": 807
-}
-  </code>
-</pre>
+}</code>
+</pre></div></div>
   
 </p>
 </details>
@@ -144,17 +134,15 @@ https://pisaucer.github.io/staticmon/categories/
 <summary>Example Response</summary>
 <p>
 
-<pre class="highlight">
-  <code>
-[
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
+<code>[
     "starter",
     "legendary",
     "mythical",
     "ultraBeast",
     "mega"
-]
-  </code>
-</pre>
+]</code>
+</pre></div></div>
   
 </p>
 </details>
