@@ -105,18 +105,17 @@ https://pisaucer.github.io/staticmon/pokemon/counts/
 <summary>Example Response</summary>
 <p>
 
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
-<code>{
-  "gen1": 151,
-  "gen2": 100,
-  "gen3": 135,
-  "gen4": 107,
-  "gen5": 156,
-  "gen6": 72,
-  "gen7": 86,
-  "total": 807
-}</code>
-</pre></div></div>
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"gen1"</span><span class="p">:</span><span class="w"> </span><span class="mi">151</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"gen2"</span><span class="p">:</span><span class="w"> </span><span class="mi">100</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"gen3"</span><span class="p">:</span><span class="w"> </span><span class="mi">135</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"gen4"</span><span class="p">:</span><span class="w"> </span><span class="mi">107</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"gen5"</span><span class="p">:</span><span class="w"> </span><span class="mi">156</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"gen6"</span><span class="p">:</span><span class="w"> </span><span class="mi">72</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"gen7"</span><span class="p">:</span><span class="w"> </span><span class="mi">86</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"total"</span><span class="p">:</span><span class="w"> </span><span class="mi">807</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
   
 </p>
 </details>
@@ -133,15 +132,14 @@ https://pisaucer.github.io/staticmon/categories/
 <summary>Example Response</summary>
 <p>
 
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight">
-<code>[
-    "starter",
-    "legendary",
-    "mythical",
-    "ultraBeast",
-    "mega"
-]</code>
-</pre></div></div>
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">[</span><span class="w">
+    </span><span class="s2">"starter"</span><span class="p">,</span><span class="w">
+    </span><span class="s2">"legendary"</span><span class="p">,</span><span class="w">
+    </span><span class="s2">"mythical"</span><span class="p">,</span><span class="w">
+    </span><span class="s2">"ultraBeast"</span><span class="p">,</span><span class="w">
+    </span><span class="s2">"mega"</span><span class="w">
+</span><span class="p">]</span><span class="w">
+</span></code></pre></div></div>
   
 </p>
 </details>
