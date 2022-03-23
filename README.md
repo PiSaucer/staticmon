@@ -13,52 +13,53 @@ https://pisaucer.github.io/staticmon/pokemon/:number/:min
 <summary>Example Response</summary>
 <p>
   
-```
-https://pisaucer.github.io/staticmon/pokemon/150
-```
+  ```
+  https://pisaucer.github.io/staticmon/pokemon/150
+  ```
 
-```json
-{
-  "number": "150",
-  "name": "Mewtwo",
-  "generation": 1,
-  "description": "Said to rest quietly in an undiscovered cave, this POKéMON was created solely for battling.",
-  "species": "Genetic",
-  "types": [
-    "Psychic"
-  ],
-  "abilities": {
-    "normal": [
-      "Pressure"
+  ```json
+  {
+    "number": "150",
+    "name": "Mewtwo",
+    "generation": 1,
+    "description": "Said to rest quietly in an undiscovered cave, this POKéMON was created solely for battling.",
+    "species": "Genetic",
+    "types": [
+      "Psychic"
     ],
-    "hidden": [
-      "Unnerve"
-    ]
-  },
-  "height": "6'07\"",
-  "weight": "269 lbs.",
-  "eggGroups": [
-    "Undiscovered"
-  ],
-  "gender": [],
-  "family": {
-    "id": 77,
-    "evolutionStage": 1,
-    "evolutionLine": [
-      "Mewtwo"
-    ]
-  },
-  "sprites": {
-    "default": "https://pisaucer.github.io/staticmon/images/150.png",
-    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/150.png"
-  },
-  "isStarter": false,
-  "isLegendary": true,
-  "isMythical": false,
-  "isUltraBeast": false,
-  "isMega": false
-}
-```
+    "abilities": {
+      "normal": [
+        "Pressure"
+      ],
+      "hidden": [
+        "Unnerve"
+      ]
+    },
+    "height": "6'07\"",
+    "weight": "269 lbs.",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "gender": [],
+    "family": {
+      "id": 77,
+      "evolutionStage": 1,
+      "evolutionLine": [
+        "Mewtwo"
+      ]
+    },
+    "sprites": {
+      "default": "https://pisaucer.github.io/staticmon/images/150.png",
+      "shiny": "https://pisaucer.github.io/staticmon/images/shiny/150.png"
+    },
+    "isStarter": false,
+    "isLegendary": true,
+    "isMythical": false,
+    "isUltraBeast": false,
+    "isMega": false
+  }
+  ```
+  
 </p>
 </details>
 
@@ -105,18 +106,19 @@ https://pisaucer.github.io/staticmon/pokemon/counts/
 <summary>Example Response</summary>
 <p>
 
-```json
-{
-  "gen1": 151,
-  "gen2": 100,
-  "gen3": 135,
-  "gen4": 107,
-  "gen5": 156,
-  "gen6": 72,
-  "gen7": 86,
-  "total": 807
-}
-```
+  ```json
+  {
+    "gen1": 151,
+    "gen2": 100,
+    "gen3": 135,
+    "gen4": 107,
+    "gen5": 156,
+    "gen6": 72,
+    "gen7": 86,
+    "total": 807
+  }
+  ```
+  
 </p>
 </details>
 
