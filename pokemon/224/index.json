@@ -1,0 +1,46 @@
+{
+  "number": "224",
+  "name": "Octillery",
+  "generation": 2,
+  "description": "Its instinct is to bury itself in holes. It often steals the nesting holes of others to sleep in them.",
+  "species": "Jet",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Suction Cups",
+      "Sniper"
+    ],
+    "hidden": [
+      "Moody"
+    ]
+  },
+  "height": "2'11\"",
+  "weight": "62.8 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Water 2"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 114,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Remoraid",
+      "Octillery"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/224.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/224.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,46 @@
+{
+  "number": "210",
+  "name": "Granbull",
+  "generation": 2,
+  "description": "It can make most any POKéMON run away simply by opening its mouth wide to reveal its big fangs.",
+  "species": "Fairy",
+  "types": [
+    "Fairy"
+  ],
+  "abilities": {
+    "normal": [
+      "Intimidate",
+      "Quick Feet"
+    ],
+    "hidden": [
+      "Rattled"
+    ]
+  },
+  "height": "4'07\"",
+  "weight": "107.4 lbs.",
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "gender": [
+    25,
+    75
+  ],
+  "family": {
+    "id": 105,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Snubbull",
+      "Granbull"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/210.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/210.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

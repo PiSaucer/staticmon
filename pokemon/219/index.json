@@ -1,0 +1,46 @@
+{
+  "number": "219",
+  "name": "Magcargo",
+  "generation": 2,
+  "description": "Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.",
+  "species": "Lava",
+  "types": [
+    "Fire",
+    "Rock"
+  ],
+  "abilities": {
+    "normal": [
+      "Magma Armor",
+      "Flame Body"
+    ],
+    "hidden": [
+      "Weak Armor"
+    ]
+  },
+  "height": "2'07\"",
+  "weight": "121.3 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 111,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Slugma",
+      "Magcargo"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/219.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/219.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

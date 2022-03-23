@@ -1,0 +1,46 @@
+{
+  "number": "181",
+  "name": "Ampharos",
+  "generation": 2,
+  "description": "When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean's surface.",
+  "species": "Light",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Static"
+    ],
+    "hidden": [
+      "Plus"
+    ]
+  },
+  "height": "4'07\"",
+  "weight": "136.6 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 89,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Mareep",
+      "Flaaffy",
+      "Ampharos"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/181.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/181.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

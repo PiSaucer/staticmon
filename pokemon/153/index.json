@@ -1,0 +1,46 @@
+{
+  "number": "153",
+  "name": "Bayleef",
+  "generation": 2,
+  "description": "The scent that wafts from the leaves on its neck causes anyone who smells it to become energetic.",
+  "species": "Leaf",
+  "types": [
+    "Grass"
+  ],
+  "abilities": {
+    "normal": [
+      "Overgrow"
+    ],
+    "hidden": [
+      "Leaf Guard"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "34.8 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 79,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Chikorita",
+      "Bayleef",
+      "Meganium"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/153.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/153.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

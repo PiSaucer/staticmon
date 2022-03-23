@@ -1,0 +1,47 @@
+{
+  "number": "199",
+  "name": "Slowking",
+  "generation": 2,
+  "description": "Every time it yawns, SHELLDER injects more poison into it. The poison makes it more intelligent.",
+  "species": "Royal",
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Oblivious",
+      "Own Tempo"
+    ],
+    "hidden": [
+      "Regenerator"
+    ]
+  },
+  "height": "6'07\"",
+  "weight": "175.3 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 33,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Slowpoke",
+      "Slowking"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/199.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/199.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

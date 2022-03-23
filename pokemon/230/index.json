@@ -1,0 +1,48 @@
+{
+  "number": "230",
+  "name": "Kingdra",
+  "generation": 2,
+  "description": "It stores energy by sleeping at underwater depths at which no other life forms can survive.",
+  "species": "Dragon",
+  "types": [
+    "Water",
+    "Dragon"
+  ],
+  "abilities": {
+    "normal": [
+      "Swift Swim",
+      "Sniper"
+    ],
+    "hidden": [
+      "Damp"
+    ]
+  },
+  "height": "5'11\"",
+  "weight": "335.1 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 54,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Horsea",
+      "Seadra",
+      "Kingdra"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/230.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/230.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

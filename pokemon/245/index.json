@@ -1,0 +1,41 @@
+{
+  "number": "245",
+  "name": "Suicune",
+  "generation": 2,
+  "description": "This divine POKéMON blows around the world, always in search of a pure reservoir.",
+  "species": "Aurora",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Pressure"
+    ],
+    "hidden": [
+      "Inner Focus",
+      "Water Absorb"
+    ]
+  },
+  "height": "6'07\"",
+  "weight": "412.3 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [],
+  "family": {
+    "id": 125,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Suicune"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/245.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/245.png"
+  },
+  "isStarter": false,
+  "isLegendary": true,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

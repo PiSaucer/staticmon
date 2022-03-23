@@ -1,0 +1,48 @@
+{
+  "number": "176",
+  "name": "Togetic",
+  "generation": 2,
+  "description": "Although it does not flap its wings very much, it can stay up in the air as it tags along after its trainer.",
+  "species": "Happiness",
+  "types": [
+    "Fairy",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Hustle",
+      "Serene Grace"
+    ],
+    "hidden": [
+      "Super Luck"
+    ]
+  },
+  "height": "2'",
+  "weight": "7.1 lbs.",
+  "eggGroups": [
+    "Flying",
+    "Fairy"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 87,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Togepi",
+      "Togetic",
+      "Togekiss"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/176.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/176.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

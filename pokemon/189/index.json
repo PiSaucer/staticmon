@@ -1,0 +1,48 @@
+{
+  "number": "189",
+  "name": "Jumpluff",
+  "generation": 2,
+  "description": "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants.",
+  "species": "Cottonweed",
+  "types": [
+    "Grass",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Chlorophyll",
+      "Leaf Guard"
+    ],
+    "hidden": [
+      "Infiltrator"
+    ]
+  },
+  "height": "2'07\"",
+  "weight": "6.6 lbs.",
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 92,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Hoppip",
+      "Skiploom",
+      "Jumpluff"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/189.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/189.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

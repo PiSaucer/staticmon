@@ -1,0 +1,45 @@
+{
+  "number": "182",
+  "name": "Bellossom",
+  "generation": 2,
+  "description": "When these dance together, their petals rub against each other, making pretty, relaxing sounds.",
+  "species": "Flower",
+  "types": [
+    "Grass"
+  ],
+  "abilities": {
+    "normal": [
+      "Chlorophyll"
+    ],
+    "hidden": [
+      "Healer"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "12.8 lbs.",
+  "eggGroups": [
+    "Grass"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 18,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Oddish",
+      "Gloom",
+      "Bellossom"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/182.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/182.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

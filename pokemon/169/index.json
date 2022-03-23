@@ -1,0 +1,46 @@
+{
+  "number": "169",
+  "name": "Crobat",
+  "generation": 2,
+  "description": "As a result of its pursuit of faster, yet more silent flight, a new set of wings grew on its hind legs.",
+  "species": "Bat",
+  "types": [
+    "Poison",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Inner Focus"
+    ],
+    "hidden": [
+      "Infiltrator"
+    ]
+  },
+  "height": "5'11\"",
+  "weight": "165.3 lbs.",
+  "eggGroups": [
+    "Flying"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 17,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Zubat",
+      "Golbat",
+      "Crobat"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/169.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/169.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

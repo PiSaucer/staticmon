@@ -1,0 +1,45 @@
+{
+  "number": "217",
+  "name": "Ursaring",
+  "generation": 2,
+  "description": "Although it has a large body, it is quite skilled at climbing trees. It eats and sleeps in the treetops.",
+  "species": "Hibernator",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Guts",
+      "Quick Feet"
+    ],
+    "hidden": [
+      "Unnerve"
+    ]
+  },
+  "height": "5'11\"",
+  "weight": "277.3 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 110,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Teddiursa",
+      "Ursaring"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/217.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/217.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

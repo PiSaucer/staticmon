@@ -1,0 +1,48 @@
+{
+  "number": "188",
+  "name": "Skiploom",
+  "generation": 2,
+  "description": "As soon as it rains, it closes its flower and hides in the shade of a tree to avoid getting wet.",
+  "species": "Cottonweed",
+  "types": [
+    "Grass",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Chlorophyll",
+      "Leaf Guard"
+    ],
+    "hidden": [
+      "Infiltrator"
+    ]
+  },
+  "height": "2'",
+  "weight": "2.2 lbs.",
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 92,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Hoppip",
+      "Skiploom",
+      "Jumpluff"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/188.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/188.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

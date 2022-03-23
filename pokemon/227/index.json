@@ -1,0 +1,45 @@
+{
+  "number": "227",
+  "name": "Skarmory",
+  "generation": 2,
+  "description": "The feathers that it sheds are very sharp. It is said that people once used the feathers as swords.",
+  "species": "Armor Bird",
+  "types": [
+    "Steel",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Keen Eye",
+      "Sturdy"
+    ],
+    "hidden": [
+      "Weak Armor"
+    ]
+  },
+  "height": "5'07\"",
+  "weight": "111.3 lbs.",
+  "eggGroups": [
+    "Flying"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 117,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Skarmory"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/227.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/227.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

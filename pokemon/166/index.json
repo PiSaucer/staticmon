@@ -1,0 +1,46 @@
+{
+  "number": "166",
+  "name": "Ledian",
+  "generation": 2,
+  "description": "In the daytime when it gets warm, it curls up inside a big leaf and drifts off into a deep slumber.",
+  "species": "Five Star",
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Swarm",
+      "Early Bird"
+    ],
+    "hidden": [
+      "Iron Fist"
+    ]
+  },
+  "height": "4'07\"",
+  "weight": "78.5 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 84,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Ledyba",
+      "Ledian"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/166.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/166.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

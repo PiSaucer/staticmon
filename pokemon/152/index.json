@@ -1,0 +1,46 @@
+{
+  "number": "152",
+  "name": "Chikorita",
+  "generation": 2,
+  "description": "It loves to bask in the sunlight. It uses the leaf on its head to seek out warm places.",
+  "species": "Leaf",
+  "types": [
+    "Grass"
+  ],
+  "abilities": {
+    "normal": [
+      "Overgrow"
+    ],
+    "hidden": [
+      "Leaf Guard"
+    ]
+  },
+  "height": "2'11\"",
+  "weight": "14.1 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 79,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Chikorita",
+      "Bayleef",
+      "Meganium"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/152.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/152.png"
+  },
+  "isStarter": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

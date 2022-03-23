@@ -1,0 +1,46 @@
+{
+  "number": "171",
+  "name": "Lanturn",
+  "generation": 2,
+  "description": "This POKéMON uses the bright part of its body, which changed from a dorsal fin, to lure prey.",
+  "species": "Light",
+  "types": [
+    "Water",
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Volt Absorb",
+      "Illuminate"
+    ],
+    "hidden": [
+      "Water Absorb"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "49.6 lbs.",
+  "eggGroups": [
+    "Water 2"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 86,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Chinchou",
+      "Lanturn"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/171.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/171.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

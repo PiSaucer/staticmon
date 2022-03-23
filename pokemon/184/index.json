@@ -1,0 +1,48 @@
+{
+  "number": "184",
+  "name": "Azumarill",
+  "generation": 2,
+  "description": "The bubble-like pattern on its stomach helps it camouflage itself when it's in the water.",
+  "species": "Aqua Rabbit",
+  "types": [
+    "Water",
+    "Fairy"
+  ],
+  "abilities": {
+    "normal": [
+      "Thick Fat",
+      "Huge Power"
+    ],
+    "hidden": [
+      "Sap Sipper"
+    ]
+  },
+  "height": "2'07\"",
+  "weight": "62.8 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Fairy"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 90,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Azurill",
+      "Marill",
+      "Azumarill"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/184.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/184.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

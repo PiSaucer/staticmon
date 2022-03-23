@@ -1,0 +1,45 @@
+{
+  "number": "240",
+  "name": "Magby",
+  "generation": 2,
+  "description": "It naturally spits an 1100-degree flame. It is said when many appear, it heralds a volcanic eruption.",
+  "species": "Live Coal",
+  "types": [
+    "Fire"
+  ],
+  "abilities": {
+    "normal": [
+      "Flame Body"
+    ],
+    "hidden": [
+      "Vital Spirit"
+    ]
+  },
+  "height": "2'04\"",
+  "weight": "47.2 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [
+    75,
+    25
+  ],
+  "family": {
+    "id": 61,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Magby",
+      "Magmar",
+      "Magmortar"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/240.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/240.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,45 @@
+{
+  "number": "185",
+  "name": "Sudowoodo",
+  "generation": 2,
+  "description": "If a tree branch shakes when there is no wind, it's a SUDOWOODO, not a tree. It hides from the rain.",
+  "species": "Imitation",
+  "types": [
+    "Rock"
+  ],
+  "abilities": {
+    "normal": [
+      "Sturdy",
+      "Rock Head"
+    ],
+    "hidden": [
+      "Rattled"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "83.8 lbs.",
+  "eggGroups": [
+    "Mineral"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 91,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Bonsly",
+      "Sudowoodo"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/185.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/185.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

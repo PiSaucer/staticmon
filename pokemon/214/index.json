@@ -1,0 +1,45 @@
+{
+  "number": "214",
+  "name": "Heracross",
+  "generation": 2,
+  "description": "With its Herculean powers, it can easily throw around an object that is 100 times its own weight.",
+  "species": "Single Horn",
+  "types": [
+    "Bug",
+    "Fighting"
+  ],
+  "abilities": {
+    "normal": [
+      "Swarm",
+      "Guts"
+    ],
+    "hidden": [
+      "Moxie"
+    ]
+  },
+  "height": "4'11\"",
+  "weight": "119 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 108,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Heracross"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/214.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/214.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

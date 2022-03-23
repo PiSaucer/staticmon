@@ -1,0 +1,46 @@
+{
+  "number": "198",
+  "name": "Murkrow",
+  "generation": 2,
+  "description": "It hides any shiny object it finds in a secret location. MURKROW and MEOWTH loot one another's stashes.",
+  "species": "Darkness",
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Insomnia",
+      "Super Luck"
+    ],
+    "hidden": [
+      "Prankster"
+    ]
+  },
+  "height": "1'08\"",
+  "weight": "4.6 lbs.",
+  "eggGroups": [
+    "Flying"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 97,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Murkrow",
+      "Honchkrow"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/198.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/198.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

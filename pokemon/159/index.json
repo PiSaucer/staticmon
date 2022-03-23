@@ -1,0 +1,46 @@
+{
+  "number": "159",
+  "name": "Croconaw",
+  "generation": 2,
+  "description": "The tips of its fangs are slanted backward. Once those fangs clamp down, the prey has no hope of escape.",
+  "species": "Big Jaw",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Torrent"
+    ],
+    "hidden": [
+      "Sheer Force"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "55.1 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 81,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Totodile",
+      "Croconaw",
+      "Feraligatr"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/159.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/159.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

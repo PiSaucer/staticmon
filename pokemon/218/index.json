@@ -1,0 +1,45 @@
+{
+  "number": "218",
+  "name": "Slugma",
+  "generation": 2,
+  "description": "These group together in areas that are hotter than normal. If it cools off, its skin hardens.",
+  "species": "Lava",
+  "types": [
+    "Fire"
+  ],
+  "abilities": {
+    "normal": [
+      "Magma Armor",
+      "Flame Body"
+    ],
+    "hidden": [
+      "Weak Armor"
+    ]
+  },
+  "height": "2'04\"",
+  "weight": "77.2 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 111,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Slugma",
+      "Magcargo"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/218.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/218.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

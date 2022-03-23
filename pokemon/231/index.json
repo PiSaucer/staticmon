@@ -1,0 +1,44 @@
+{
+  "number": "231",
+  "name": "Phanpy",
+  "generation": 2,
+  "description": "During the deserted morning hours, it comes ashore where it deftly uses its trunk to take a shower.",
+  "species": "Long Nose",
+  "types": [
+    "Ground"
+  ],
+  "abilities": {
+    "normal": [
+      "Pickup"
+    ],
+    "hidden": [
+      "Sand Veil"
+    ]
+  },
+  "height": "1'08\"",
+  "weight": "73.9 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 119,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Phanpy",
+      "Donphan"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/231.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/231.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

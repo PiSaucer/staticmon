@@ -1,0 +1,38 @@
+{
+  "number": "201",
+  "name": "Unown",
+  "generation": 2,
+  "description": "Because different types of UNOWN exist, it is said that they must have a variety of abilities.",
+  "species": "Symbol",
+  "types": [
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Levitate"
+    ],
+    "hidden": []
+  },
+  "height": "1'08\"",
+  "weight": "11 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [],
+  "family": {
+    "id": 99,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Unown"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/201.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/201.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

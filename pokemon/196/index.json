@@ -1,0 +1,44 @@
+{
+  "number": "196",
+  "name": "Espeon",
+  "generation": 2,
+  "description": "The tip of its forked tail quivers when it is predicting its opponent's next move.",
+  "species": "Sun",
+  "types": [
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Synchronize"
+    ],
+    "hidden": [
+      "Magic Bounce"
+    ]
+  },
+  "height": "2'11\"",
+  "weight": "58.4 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 67,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Eevee",
+      "Espeon"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/196.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/196.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

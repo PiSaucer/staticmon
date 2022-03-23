@@ -1,0 +1,46 @@
+{
+  "number": "215",
+  "name": "Sneasel",
+  "generation": 2,
+  "description": "This cunning POKéMON hides under the cover of darkness, waiting to attack its prey.",
+  "species": "Sharp Claw",
+  "types": [
+    "Dark",
+    "Ice"
+  ],
+  "abilities": {
+    "normal": [
+      "Inner Focus",
+      "Keen Eye"
+    ],
+    "hidden": [
+      "Pickpocket"
+    ]
+  },
+  "height": "2'11\"",
+  "weight": "61.7 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 109,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Sneasel",
+      "Weavile"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/215.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/215.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,45 @@
+{
+  "number": "190",
+  "name": "Aipom",
+  "generation": 2,
+  "description": "It uses its tail to hang on to tree branches. It uses its momentum to swing from one branch to another.",
+  "species": "Long Tail",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Run Away",
+      "Pickup"
+    ],
+    "hidden": [
+      "Skill Link"
+    ]
+  },
+  "height": "2'07\"",
+  "weight": "25.4 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 93,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Aipom",
+      "Ambipom"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/190.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/190.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

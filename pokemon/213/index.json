@@ -1,0 +1,45 @@
+{
+  "number": "213",
+  "name": "Shuckle",
+  "generation": 2,
+  "description": "The fluid secreted by its toes carves holes in rocks for nesting and can be mixed with BERRIES to make a drink.",
+  "species": "Mold",
+  "types": [
+    "Bug",
+    "Rock"
+  ],
+  "abilities": {
+    "normal": [
+      "Sturdy",
+      "Gluttony"
+    ],
+    "hidden": [
+      "Contrary"
+    ]
+  },
+  "height": "2'",
+  "weight": "45.2 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 107,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Shuckle"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/213.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/213.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,45 @@
+{
+  "number": "156",
+  "name": "Quilava",
+  "generation": 2,
+  "description": "Before battle, it turns its back on its opponent to demonstrate how ferociously its fire blazes.",
+  "species": "Volcano",
+  "types": [
+    "Fire"
+  ],
+  "abilities": {
+    "normal": [
+      "Blaze"
+    ],
+    "hidden": [
+      "Flash Fire"
+    ]
+  },
+  "height": "2'11\"",
+  "weight": "41.9 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 80,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Cyndaquil",
+      "Quilava",
+      "Typhlosion"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/156.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/156.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

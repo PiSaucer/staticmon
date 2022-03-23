@@ -1,0 +1,46 @@
+{
+  "number": "208",
+  "name": "Steelix",
+  "generation": 2,
+  "description": "The many small metal particles that cover this POKéMON's body reflect bright light well.",
+  "species": "Iron Snake",
+  "types": [
+    "Steel",
+    "Ground"
+  ],
+  "abilities": {
+    "normal": [
+      "Rock Head",
+      "Sturdy"
+    ],
+    "hidden": [
+      "Sheer Force"
+    ]
+  },
+  "height": "30'02\"",
+  "weight": "881.8 lbs.",
+  "eggGroups": [
+    "Mineral"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 41,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Onix",
+      "Steelix"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/208.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/208.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,46 @@
+{
+  "number": "177",
+  "name": "Natu",
+  "generation": 2,
+  "description": "It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees.",
+  "species": "Tiny Bird",
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Synchronize",
+      "Early Bird"
+    ],
+    "hidden": [
+      "Magic Bounce"
+    ]
+  },
+  "height": "0'08\"",
+  "weight": "4.4 lbs.",
+  "eggGroups": [
+    "Flying"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 88,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Natu",
+      "Xatu"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/177.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/177.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

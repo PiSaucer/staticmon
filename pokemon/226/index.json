@@ -1,0 +1,46 @@
+{
+  "number": "226",
+  "name": "Mantine",
+  "generation": 2,
+  "description": "It swims along freely, eating things that swim into its mouth. Its whole body is very coarse.",
+  "species": "Kite",
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Swift Swim",
+      "Water Absorb"
+    ],
+    "hidden": [
+      "Water Veil"
+    ]
+  },
+  "height": "6'11\"",
+  "weight": "485 lbs.",
+  "eggGroups": [
+    "Water 1"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 116,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Mantyke",
+      "Mantine"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/226.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/226.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

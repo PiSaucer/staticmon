@@ -1,0 +1,45 @@
+{
+  "number": "211",
+  "name": "Qwilfish",
+  "generation": 2,
+  "description": "When faced with a larger opponent, it swallows as much water as it can to match the opponent's size.",
+  "species": "Balloon",
+  "types": [
+    "Water",
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Poison Point",
+      "Swift Swim"
+    ],
+    "hidden": [
+      "Intimidate"
+    ]
+  },
+  "height": "1'08\"",
+  "weight": "8.6 lbs.",
+  "eggGroups": [
+    "Water 2"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 106,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Qwilfish"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/211.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/211.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

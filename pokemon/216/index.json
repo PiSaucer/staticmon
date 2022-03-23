@@ -1,0 +1,45 @@
+{
+  "number": "216",
+  "name": "Teddiursa",
+  "generation": 2,
+  "description": "It always licks honey. Its palm tastes sweet because of all the honey it has absorbed.",
+  "species": "Little Bear",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Pickup",
+      "Quick Feet"
+    ],
+    "hidden": [
+      "Honey Gather"
+    ]
+  },
+  "height": "2'",
+  "weight": "19.4 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 110,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Teddiursa",
+      "Ursaring"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/216.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/216.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

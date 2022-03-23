@@ -1,0 +1,46 @@
+{
+  "number": "175",
+  "name": "Togepi",
+  "generation": 2,
+  "description": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
+  "species": "Spike Ball",
+  "types": [
+    "Fairy"
+  ],
+  "abilities": {
+    "normal": [
+      "Hustle",
+      "Serene Grace"
+    ],
+    "hidden": [
+      "Super Luck"
+    ]
+  },
+  "height": "1'",
+  "weight": "3.3 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 87,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Togepi",
+      "Togetic",
+      "Togekiss"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/175.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/175.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

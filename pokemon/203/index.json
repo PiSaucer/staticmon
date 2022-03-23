@@ -1,0 +1,45 @@
+{
+  "number": "203",
+  "name": "Girafarig",
+  "generation": 2,
+  "description": "When it is in danger, its tail uses some sort of mysterious powers to drive away the enemy.",
+  "species": "Long Neck",
+  "types": [
+    "Normal",
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Inner Focus",
+      "Early Bird"
+    ],
+    "hidden": [
+      "Sap Sipper"
+    ]
+  },
+  "height": "4'11\"",
+  "weight": "91.5 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 101,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Girafarig"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/203.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/203.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

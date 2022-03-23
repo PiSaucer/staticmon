@@ -1,0 +1,45 @@
+{
+  "number": "205",
+  "name": "Forretress",
+  "generation": 2,
+  "description": "Usually found hanging on to a fat tree trunk. It shoots out bits of its shell when it sees action.",
+  "species": "Bagworm",
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "abilities": {
+    "normal": [
+      "Sturdy"
+    ],
+    "hidden": [
+      "Overcoat"
+    ]
+  },
+  "height": "3'11\"",
+  "weight": "277.3 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 102,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Pineco",
+      "Forretress"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/205.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/205.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

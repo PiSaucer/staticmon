@@ -1,0 +1,48 @@
+{
+  "number": "183",
+  "name": "Marill",
+  "generation": 2,
+  "description": "The fur on its body naturally repels water. It can stay dry, even when it plays in the water.",
+  "species": "Aqua Mouse",
+  "types": [
+    "Water",
+    "Fairy"
+  ],
+  "abilities": {
+    "normal": [
+      "Thick Fat",
+      "Huge Power"
+    ],
+    "hidden": [
+      "Sap Sipper"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "18.7 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Fairy"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 90,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Azurill",
+      "Marill",
+      "Azumarill"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/183.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/183.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

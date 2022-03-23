@@ -1,0 +1,46 @@
+{
+  "number": "168",
+  "name": "Ariados",
+  "generation": 2,
+  "description": "Rather than making a nest in one specific spot, it wanders in search of food after darkness falls.",
+  "species": "Long Leg",
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "abilities": {
+    "normal": [
+      "Swarm",
+      "Insomnia"
+    ],
+    "hidden": [
+      "Sniper"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "73.9 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 85,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Spinarak",
+      "Ariados"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/168.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/168.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

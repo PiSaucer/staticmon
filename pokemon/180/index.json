@@ -1,0 +1,46 @@
+{
+  "number": "180",
+  "name": "Flaaffy",
+  "generation": 2,
+  "description": "Because of its rubbery, electricity-resistant skin, it can store lots of electricity in its fur.",
+  "species": "Wool",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Static"
+    ],
+    "hidden": [
+      "Plus"
+    ]
+  },
+  "height": "2'07\"",
+  "weight": "29.3 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 89,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Mareep",
+      "Flaaffy",
+      "Ampharos"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/180.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/180.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

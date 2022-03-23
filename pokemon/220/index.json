@@ -1,0 +1,47 @@
+{
+  "number": "220",
+  "name": "Swinub",
+  "generation": 2,
+  "description": "It uses the tip of its nose to dig for food. Its nose is so tough that even frozen ground poses no problem.",
+  "species": "Ping",
+  "types": [
+    "Ice",
+    "Ground"
+  ],
+  "abilities": {
+    "normal": [
+      "Oblivious",
+      "Snow Cloak"
+    ],
+    "hidden": [
+      "Thick Fat"
+    ]
+  },
+  "height": "1'04\"",
+  "weight": "14.3 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 112,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Swinub",
+      "Piloswine",
+      "Mamoswine"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/220.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/220.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

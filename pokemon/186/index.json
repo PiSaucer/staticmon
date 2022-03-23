@@ -1,0 +1,46 @@
+{
+  "number": "186",
+  "name": "Politoed",
+  "generation": 2,
+  "description": "When it expands its throat to croak out a tune, nearby POLIWAG and POLIWHIRL gather immediately.",
+  "species": "Frog",
+  "types": [
+    "Water"
+  ],
+  "abilities": {
+    "normal": [
+      "Water Absorb",
+      "Damp"
+    ],
+    "hidden": [
+      "Drizzle"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "74.7 lbs.",
+  "eggGroups": [
+    "Water 1"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 26,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Poliwag",
+      "Poliwhirl",
+      "Politoed"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/186.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/186.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

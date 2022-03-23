@@ -1,0 +1,46 @@
+{
+  "number": "154",
+  "name": "Meganium",
+  "generation": 2,
+  "description": "Anyone who stands beside it becomes refreshed, just as if they were relaxing in a sunny forest.",
+  "species": "Herb",
+  "types": [
+    "Grass"
+  ],
+  "abilities": {
+    "normal": [
+      "Overgrow"
+    ],
+    "hidden": [
+      "Leaf Guard"
+    ]
+  },
+  "height": "5'11\"",
+  "weight": "221.6 lbs.",
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "gender": [
+    87.5,
+    12.5
+  ],
+  "family": {
+    "id": 79,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Chikorita",
+      "Bayleef",
+      "Meganium"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/154.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/154.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,44 @@
+{
+  "number": "202",
+  "name": "Wobbuffet",
+  "generation": 2,
+  "description": "In order to conceal its black tail, it lives in a dark cave and only moves about at night.",
+  "species": "Patient",
+  "types": [
+    "Psychic"
+  ],
+  "abilities": {
+    "normal": [
+      "Shadow Tag"
+    ],
+    "hidden": [
+      "Telepathy"
+    ]
+  },
+  "height": "4'03\"",
+  "weight": "62.8 lbs.",
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 100,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Wynaut",
+      "Wobbuffet"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/202.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/202.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

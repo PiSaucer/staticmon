@@ -1,0 +1,44 @@
+{
+  "number": "234",
+  "name": "Stantler",
+  "generation": 2,
+  "description": "The round balls found on the fallen antlers can be ground into a powder that aids in sleeping.",
+  "species": "Big Horn",
+  "types": [
+    "Normal"
+  ],
+  "abilities": {
+    "normal": [
+      "Intimidate",
+      "Frisk"
+    ],
+    "hidden": [
+      "Sap Sipper"
+    ]
+  },
+  "height": "4'07\"",
+  "weight": "157 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 120,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Stantler"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/234.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/234.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

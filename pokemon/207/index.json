@@ -1,0 +1,46 @@
+{
+  "number": "207",
+  "name": "Gligar",
+  "generation": 2,
+  "description": "It builds its nest on a steep cliff. When it is done gliding, it hops along the ground back to its nest.",
+  "species": "Fly Scorpion",
+  "types": [
+    "Ground",
+    "Flying"
+  ],
+  "abilities": {
+    "normal": [
+      "Hyper Cutter",
+      "Sand Veil"
+    ],
+    "hidden": [
+      "Immunity"
+    ]
+  },
+  "height": "3'07\"",
+  "weight": "142.9 lbs.",
+  "eggGroups": [
+    "Bug"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 104,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Gligar",
+      "Gliscor"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/207.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/207.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

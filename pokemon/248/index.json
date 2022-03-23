@@ -1,0 +1,46 @@
+{
+  "number": "248",
+  "name": "Tyranitar",
+  "generation": 2,
+  "description": "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble.",
+  "species": "Armor",
+  "types": [
+    "Rock",
+    "Dark"
+  ],
+  "abilities": {
+    "normal": [
+      "Sand Stream"
+    ],
+    "hidden": [
+      "Unnerve"
+    ]
+  },
+  "height": "6'07\"",
+  "weight": "445.3 lbs.",
+  "eggGroups": [
+    "Monster"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 126,
+    "evolutionStage": 3,
+    "evolutionLine": [
+      "Larvitar",
+      "Pupitar",
+      "Tyranitar"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/248.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/248.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

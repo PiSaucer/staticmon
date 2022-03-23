@@ -1,0 +1,46 @@
+{
+  "number": "209",
+  "name": "Snubbull",
+  "generation": 2,
+  "description": "In truth, it is a cowardly POKéMON. It growls eagerly in order to hide its fear from its opponent.",
+  "species": "Fairy",
+  "types": [
+    "Fairy"
+  ],
+  "abilities": {
+    "normal": [
+      "Intimidate",
+      "Run Away"
+    ],
+    "hidden": [
+      "Rattled"
+    ]
+  },
+  "height": "2'",
+  "weight": "17.2 lbs.",
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "gender": [
+    25,
+    75
+  ],
+  "family": {
+    "id": 105,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Snubbull",
+      "Granbull"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/209.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/209.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

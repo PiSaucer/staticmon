@@ -1,0 +1,45 @@
+{
+  "number": "172",
+  "name": "Pichu",
+  "generation": 2,
+  "description": "It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.",
+  "species": "Tiny Mouse",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Static"
+    ],
+    "hidden": [
+      "Lightning Rod"
+    ]
+  },
+  "height": "1'",
+  "weight": "4.4 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 10,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Pichu",
+      "Pikachu",
+      "Raichu"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/172.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/172.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

@@ -1,0 +1,47 @@
+{
+  "number": "195",
+  "name": "Quagsire",
+  "generation": 2,
+  "description": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
+  "species": "Water Fish",
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "abilities": {
+    "normal": [
+      "Damp",
+      "Water Absorb"
+    ],
+    "hidden": [
+      "Unaware"
+    ]
+  },
+  "height": "4'07\"",
+  "weight": "165.3 lbs.",
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 96,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Wooper",
+      "Quagsire"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/195.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/195.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

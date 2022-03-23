@@ -1,0 +1,45 @@
+{
+  "number": "239",
+  "name": "Elekid",
+  "generation": 2,
+  "description": "It loves violent thunder. The space between its horns flickers bluish-white when it is charging energy.",
+  "species": "Electric",
+  "types": [
+    "Electric"
+  ],
+  "abilities": {
+    "normal": [
+      "Static"
+    ],
+    "hidden": [
+      "Vital Spirit"
+    ]
+  },
+  "height": "2'",
+  "weight": "51.8 lbs.",
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "gender": [
+    75,
+    25
+  ],
+  "family": {
+    "id": 60,
+    "evolutionStage": 1,
+    "evolutionLine": [
+      "Elekid",
+      "Electabuzz",
+      "Electivire"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/239.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/239.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}

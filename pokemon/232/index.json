@@ -1,0 +1,44 @@
+{
+  "number": "232",
+  "name": "Donphan",
+  "generation": 2,
+  "description": "Because this POKéMON's skin is so tough, a normal attack won't even leave a scratch on it.",
+  "species": "Armor",
+  "types": [
+    "Ground"
+  ],
+  "abilities": {
+    "normal": [
+      "Sturdy"
+    ],
+    "hidden": [
+      "Sand Veil"
+    ]
+  },
+  "height": "13'07\"",
+  "weight": "264.6 lbs.",
+  "eggGroups": [
+    "Field"
+  ],
+  "gender": [
+    50,
+    50
+  ],
+  "family": {
+    "id": 119,
+    "evolutionStage": 2,
+    "evolutionLine": [
+      "Phanpy",
+      "Donphan"
+    ]
+  },
+  "sprites": {
+    "default": "https://pisaucer.github.io/staticmon/images/232.png",
+    "shiny": "https://pisaucer.github.io/staticmon/images/shiny/232.png"
+  },
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
+}
