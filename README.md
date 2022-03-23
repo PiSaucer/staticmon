@@ -13,13 +13,13 @@ https://pisaucer.github.io/staticmon/pokemon/:number/:min
 <summary>Example Response</summary>
 <p>
   
-<pre>
+<pre class="highlight">
   <code>
 https://pisaucer.github.io/staticmon/pokemon/150
   </code>
 </pre>
 
-<pre>
+<pre class="highlight">
   <code>
 {
   "number": "150",
@@ -110,7 +110,7 @@ https://pisaucer.github.io/staticmon/pokemon/counts/
 <summary>Example Response</summary>
 <p>
 
-<pre>
+<pre class="highlight">
   <code>
 {
   "gen1": 151,
@@ -140,7 +140,7 @@ https://pisaucer.github.io/staticmon/categories/
 <summary>Example Response</summary>
 <p>
 
-<pre>
+<pre class="highlight">
   <code>
 [
     "starter",
@@ -154,13 +154,6 @@ https://pisaucer.github.io/staticmon/categories/
   
 </p>
 </details>
-
-<style>
-  .markdown-body pre {
-    padding-bottom: 0px;
-    padding-top: 0px;
-  }
-</style>
 
 ---
 Pokemon and Pokemon character names are trademarks of Nintendo.
