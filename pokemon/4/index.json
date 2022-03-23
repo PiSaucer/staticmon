@@ -1,6 +1,8 @@
 {
   "number": "4",
   "name": "Charmander",
+  "generation": 1,
+  "description": "If it's healthy, the flame on the tip of its tail will burn vigorously, even if it gets a bit wet.",
   "species": "Lizard",
   "types": [
     "Fire"
@@ -13,6 +15,8 @@
       "Solar Power"
     ]
   },
+  "height": "2'",
+  "weight": "18.7 lbs.",
   "eggGroups": [
     "Monster",
     "Dragon"
@@ -21,8 +25,6 @@
     87.5,
     12.5
   ],
-  "height": "2'",
-  "weight": "18.7 lbs.",
   "family": {
     "id": 2,
     "evolutionStage": 1,
@@ -32,15 +34,13 @@
       "Charizard"
     ]
   },
-  "starter": true,
-  "legendary": false,
-  "mythical": false,
-  "ultraBeast": false,
-  "mega": false,
-  "gen": 1,
-  "sprite": {
+  "sprites": {
     "default": "https://pisaucer.github.io/staticmon/images/4.png",
     "shiny": "https://pisaucer.github.io/staticmon/images/shiny/4.png"
   },
-  "description": "If it's healthy, the flame on the tip of its tail will burn vigorously, even if it gets a bit wet."
+  "isStarter": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
 }

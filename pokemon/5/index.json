@@ -1,6 +1,8 @@
 {
   "number": "5",
   "name": "Charmeleon",
+  "generation": 1,
+  "description": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
   "species": "Flame",
   "types": [
     "Fire"
@@ -13,6 +15,8 @@
       "Solar Power"
     ]
   },
+  "height": "3'07\"",
+  "weight": "41.9 lbs.",
   "eggGroups": [
     "Monster",
     "Dragon"
@@ -21,8 +25,6 @@
     87.5,
     12.5
   ],
-  "height": "3'07\"",
-  "weight": "41.9 lbs.",
   "family": {
     "id": 2,
     "evolutionStage": 2,
@@ -32,15 +34,13 @@
       "Charizard"
     ]
   },
-  "starter": false,
-  "legendary": false,
-  "mythical": false,
-  "ultraBeast": false,
-  "mega": false,
-  "gen": 1,
-  "sprite": {
+  "sprites": {
     "default": "https://pisaucer.github.io/staticmon/images/5.png",
     "shiny": "https://pisaucer.github.io/staticmon/images/shiny/5.png"
   },
-  "description": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings."
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
 }

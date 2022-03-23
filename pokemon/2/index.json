@@ -1,6 +1,8 @@
 {
   "number": "2",
   "name": "Ivysaur",
+  "generation": 1,
+  "description": "The bulb on its back grows as it absorbs nutrients. The bulb gives off a pleasant aroma when it blooms.",
   "species": "Seed",
   "types": [
     "Grass",
@@ -14,6 +16,8 @@
       "Chlorophyll"
     ]
   },
+  "height": "3'03\"",
+  "weight": "28.7 lbs.",
   "eggGroups": [
     "Monster",
     "Grass"
@@ -22,8 +26,6 @@
     87.5,
     12.5
   ],
-  "height": "3'03\"",
-  "weight": "28.7 lbs.",
   "family": {
     "id": 1,
     "evolutionStage": 2,
@@ -33,15 +35,13 @@
       "Venusaur"
     ]
   },
-  "starter": false,
-  "legendary": false,
-  "mythical": false,
-  "ultraBeast": false,
-  "mega": false,
-  "gen": 1,
-  "sprite": {
+  "sprites": {
     "default": "https://pisaucer.github.io/staticmon/images/2.png",
     "shiny": "https://pisaucer.github.io/staticmon/images/shiny/2.png"
   },
-  "description": "The bulb on its back grows as it absorbs nutrients. The bulb gives off a pleasant aroma when it blooms."
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
 }

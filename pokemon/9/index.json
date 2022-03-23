@@ -1,6 +1,8 @@
 {
   "number": "9",
   "name": "Blastoise",
+  "generation": 1,
+  "description": "It firmly plants its feet on the ground before shooting water from the jets on its back.",
   "species": "Shellfish",
   "types": [
     "Water"
@@ -13,6 +15,8 @@
       "Rain Dish"
     ]
   },
+  "height": "5'03\"",
+  "weight": "188.5 lbs.",
   "eggGroups": [
     "Monster",
     "Water 1"
@@ -21,8 +25,6 @@
     87.5,
     12.5
   ],
-  "height": "5'03\"",
-  "weight": "188.5 lbs.",
   "family": {
     "id": 3,
     "evolutionStage": 3,
@@ -32,15 +34,13 @@
       "Blastoise"
     ]
   },
-  "starter": false,
-  "legendary": false,
-  "mythical": false,
-  "ultraBeast": false,
-  "mega": false,
-  "gen": 1,
-  "sprite": {
+  "sprites": {
     "default": "https://pisaucer.github.io/staticmon/images/9.png",
     "shiny": "https://pisaucer.github.io/staticmon/images/shiny/9.png"
   },
-  "description": "It firmly plants its feet on the ground before shooting water from the jets on its back."
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
 }

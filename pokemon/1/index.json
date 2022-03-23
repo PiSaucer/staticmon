@@ -1,6 +1,8 @@
 {
   "number": "1",
   "name": "Bulbasaur",
+  "generation": 1,
+  "description": "While it is young, it uses the nutrients that are stored in the seeds on its back in order to grow.",
   "species": "Seed",
   "types": [
     "Grass",
@@ -14,6 +16,8 @@
       "Chlorophyll"
     ]
   },
+  "height": "2'04\"",
+  "weight": "15.2 lbs.",
   "eggGroups": [
     "Monster",
     "Grass"
@@ -22,8 +26,6 @@
     87.5,
     12.5
   ],
-  "height": "2'04\"",
-  "weight": "15.2 lbs.",
   "family": {
     "id": 1,
     "evolutionStage": 1,
@@ -33,15 +35,13 @@
       "Venusaur"
     ]
   },
-  "starter": true,
-  "legendary": false,
-  "mythical": false,
-  "ultraBeast": false,
-  "mega": false,
-  "gen": 1,
-  "sprite": {
+  "sprites": {
     "default": "https://pisaucer.github.io/staticmon/images/1.png",
     "shiny": "https://pisaucer.github.io/staticmon/images/shiny/1.png"
   },
-  "description": "While it is young, it uses the nutrients that are stored in the seeds on its back in order to grow."
+  "isStarter": true,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
 }

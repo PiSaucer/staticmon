@@ -1,6 +1,8 @@
 {
   "number": "3",
   "name": "Venusaur",
+  "generation": 1,
+  "description": "As it warms itself and absorbs the sunlight, its flower petals release a pleasant fragrance.",
   "species": "Seed",
   "types": [
     "Grass",
@@ -14,6 +16,8 @@
       "Chlorophyll"
     ]
   },
+  "height": "6'07\"",
+  "weight": "220.5 lbs.",
   "eggGroups": [
     "Monster",
     "Grass"
@@ -22,8 +26,6 @@
     87.5,
     12.5
   ],
-  "height": "6'07\"",
-  "weight": "220.5 lbs.",
   "family": {
     "id": 1,
     "evolutionStage": 3,
@@ -33,15 +35,13 @@
       "Venusaur"
     ]
   },
-  "starter": false,
-  "legendary": false,
-  "mythical": false,
-  "ultraBeast": false,
-  "mega": false,
-  "gen": 1,
-  "sprite": {
+  "sprites": {
     "default": "https://pisaucer.github.io/staticmon/images/3.png",
     "shiny": "https://pisaucer.github.io/staticmon/images/shiny/3.png"
   },
-  "description": "As it warms itself and absorbs the sunlight, its flower petals release a pleasant fragrance."
+  "isStarter": false,
+  "isLegendary": false,
+  "isMythical": false,
+  "isUltraBeast": false,
+  "isMega": false
 }
